@@ -42,8 +42,20 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Install dependencies 👨🏻‍💻
-        run: yarn
+        run: yarn --frozen-lockfile
 
       - name: Run linter 👀
         run: yarn lint
 
+      - name: Build 🧱
+        run: yarn build && yarn generate
+        
+      - name: Deploy to Firebase 🔥
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_PT_OTAP }}'
+          channelId: live
+          projectId: pt-otap
+        env:
+          FIREBASE_CLI_PREVIEWS: hostingchannels
