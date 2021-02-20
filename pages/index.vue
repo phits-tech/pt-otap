@@ -2,53 +2,54 @@
   <div>
     <section class="hero is-medium is-primary">
       <div class="hero-body">
-        <div class="container">
-          <p class="title">
-            Large hero
-          </p>
-          <p class="subtitle">
-            Large subtitle
-          </p>
+        <div class="container mb-6">
+          <div class="level">
+            <div class="level-item-left">
+              <p class="title is-1">
+                <img src="~/assets/images/ignite.svg" class="brand"> IGNITE
+              </p>
+              <p class="subtitle">
+                Accelerator สำหรับการเริ่มต้นเทคโนโลยีขั้นสูง ที่พิษณุโลก
+              </p>
+            </div>
+            <div class="level-item-right" />
+          </div>
         </div>
       </div>
     </section>
     <section class="section">
-      <div class="container">
-        <div class="columns is-mobile">
+      <div class="container my-6">
+        <div class="content">
+          <h2>IGNITE คืออะไร?</h2>
+          <p>
+            โปรแกรม 6 เดือนที่จะเร่งพัฒนาผลงานของนักวิจัยร่วมกับผู้ประกอบการนวัตกรรม ให้ก้าวสู่การเป็น  Deep Tech Startups ดำเนินงานภายใต้โครงการ “Organic Tech Accelerator Platform (OTAP) : แพลตฟอร์มเร่งการเติบโตทางธุรกิจด้วยเทคโนโลยีดิจิตอลและนวัตกรรมสร้างสรรค์ให้เติบโตอย่างยั่งยืนในพื้นที่ภาคเหนือตอนล่าง
+            ในโปรแกรมจะประกอบด้วย
+          </p>
+        </div>
+        <div class="columns mt-3">
           <card
-            title="Free"
-            icon="github"
+            title="Workshops"
+            icon="school"
           >
-            Open source on <a href="https://github.com/buefy/buefy">
-              GitHub
-            </a>
+            ที่จะเสริมทักษะทั้งในเชิงเทคโนโลยี และมุมมองธุรกิจ
           </card>
-
           <card
-            title="Responsive"
-            icon="cellphone-link"
+            title="Mentoring"
+            icon="account-supervisor"
           >
-            <b class="has-text-grey">
-              Every
-            </b> component is responsive
+            การให้คำปรึกษาโดยผู้มีความรู้ความสามารถ มากประสบการณ์
           </card>
-
           <card
-            title="Modern"
-            icon="alert-decagram"
+            title="Deep Tech"
+            icon="satellite-variant"
           >
-            Built with <a href="https://vuejs.org/">
-              Vue.js
-            </a> and <a href="http://bulma.io/">
-              Bulma
-            </a>
+            การพบปะ แลกเปลี่ยนความรู้และประสบการณ์
           </card>
-
           <card
-            title="Lightweight"
-            icon="arrange-bring-to-front"
+            title="Networking"
+            icon="handshake"
           >
-            No other internal dependency
+            เครือข่ายทางธุรกิจ เทคโนโลยี และนักลงทุน
           </card>
         </div>
       </div>
@@ -67,3 +68,10 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+img.brand {
+  width: 3.5rem;
+  height: 3.5rem;
+}
+</style>
