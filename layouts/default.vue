@@ -1,43 +1,32 @@
 <template>
   <div>
-    <nav class="navbar  is-primary" role="navigation" aria-label="main navigation">
-      <div class="container">
-        <div class="navbar-brand">
-          <a v-if="$nuxt.$route.name !== 'index'" class="navbar-item is-size-5 has-text-weight-semibold" href="/">
-            <img src="~/assets/images/ignite.svg">
-            <span>IGNITE</span>
-          </a>
+    <b-navbar type="is-primary" wrapper-class="container" mobile-burger="false">
+      <template #brand>
+        <a v-if="$nuxt.$route.name !== 'index'" class="navbar-item is-size-5 has-text-weight-semibold" href="/">
+          <img src="~/assets/images/ignite.svg">
+          <span>IGNITE</span>
+        </a>
+      </template>
+      <template #end>
+        <nuxt-link
+          v-for="(item, key) of items"
+          :key="key"
+          :to="item.to"
+          class="navbar-item"
+          exact-active-class="is-active"
+        >
+          {{ item.title }}
+        </nuxt-link>
 
-          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-            <span aria-hidden="true" />
-            <span aria-hidden="true" />
-            <span aria-hidden="true" />
-          </a>
-        </div>
-
-        <div class="navbar-menu">
-          <div class="navbar-end">
-            <nuxt-link
-              v-for="(item, key) of items"
-              :key="key"
-              :to="item.to"
-              class="navbar-item"
-              exact-active-class="is-active"
-            >
-              {{ item.title }}
+        <div class="navbar-item">
+          <div class="buttons">
+            <nuxt-link to="apply" class="button is-primary is-inverted is-outlined">
+              <strong>Apply</strong>
             </nuxt-link>
-
-            <div class="navbar-item">
-              <div class="buttons">
-                <nuxt-link to="apply" class="button is-primary is-inverted is-outlined">
-                  <strong>Apply</strong>
-                </nuxt-link>
-              </div>
-            </div>
           </div>
         </div>
-      </div>
-    </nav>
+      </template>
+    </b-navbar>
 
     <nuxt />
 
@@ -71,6 +60,10 @@
     </footer>
   </div>
 </template>
+    </b-navbar>
+  </div>
+</template></div>
+</template>
 
 <script>
 export default {
@@ -96,8 +89,17 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "~/assets/scss/variables.scss";
+
 .navbar-brand img {
   width: 3rem;
   height: 3rem;
+}
+
+.navbar-menu.is-active {
+  .button.is-primary.is-inverted.is-outlined {
+    border-color: $primary;
+    color: $primary;
+  }
 }
 </style>
