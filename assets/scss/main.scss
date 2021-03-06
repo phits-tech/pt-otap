@@ -3,3 +3,11 @@
 // Import Bulma and Buefy styles
 @import "~bulma";
 @import "~buefy/src/scss/buefy";
+
+// Stop the nav bar touching the edge when below usual breakpoint
+@media screen and (max-width: $desktop) {
+  .navbar > .container .navbar-menu,
+  .container > .navbar .navbar-menu {
+    margin-right: 0;
+  }
+}

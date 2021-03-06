@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-navbar type="is-primary" wrapper-class="container" mobile-burger="false">
+    <b-navbar type="is-primary" wrapper-class="container" :mobile-burger="false">
       <template #brand>
         <a v-if="$nuxt.$route.name !== 'index'" class="navbar-item is-size-5 has-text-weight-semibold" href="/">
           <img src="~/assets/images/ignite.svg">
@@ -33,22 +33,22 @@
     <footer class="footer">
       <nav class="level is-mobile">
         <div class="level-item">
-          <figure class="image is-48x48 mx-2">
+          <figure class="image is-48x48 mx-1">
             <img class="is-rounded" src="~/assets/images/logos/otap.png">
           </figure>
-          <figure class="image is-48x48 mx-2">
+          <figure class="image is-48x48 mx-1">
             <a href="https://www.nxpo.or.th/C/"><img class="is-rounded" src="~/assets/images/logos/bpk.png"></a>
           </figure>
-          <figure class="image is-48x48 mx-2">
+          <figure class="image is-48x48 mx-1">
             <a href="https://www.nu.ac.th"><img class="is-rounded" src="~/assets/images/logos/nu.png"></a>
           </figure>
-          <figure class="image is-48x48 mx-2">
+          <figure class="image is-48x48 mx-1">
             <img class="is-rounded" src="~/assets/images/logos/dri.png">
           </figure>
-          <figure class="image is-48x48 mx-2">
+          <figure class="image is-48x48 mx-1">
             <a href="https://www.facebook.com/NU-SciPark-547002178663488"><img class="is-rounded" src="~/assets/images/logos/sci-park.png"></a>
           </figure>
-          <figure class="image is-48x48 mx-2">
+          <figure class="image is-48x48 mx-1">
             <a href="https://www.facebook.com/phits.tech"><img class="is-rounded" src="~/assets/images/logos/phits-tech.png"></a>
           </figure>
         </div>
