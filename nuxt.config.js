@@ -4,14 +4,18 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'OTAP',
+    title: 'IGNITE โดย OTAP',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { hid: 'description', name: 'description', content: 'Accelerator สำหรับการเริ่มต้นเทคโนโลยีขั้นสูง ที่พิษณุโลก' },
+      { hid: 'og:title', property: 'og:title', content: 'IGNITE โดย OTAP' },
+      { hid: 'og:image', property: 'og:image', content: '/default-og-image.png' },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:url', property: 'og:url', content: (process.env.BASE_URL || 'http://localhost:3000') }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

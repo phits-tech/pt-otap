@@ -179,9 +179,9 @@
       </div>
     </section>
   </div>
-  </section>
-  </div>
 </template>
+
+<script src="./workshops.ts" lang="ts"></script>
 
 <style lang="scss" scoped>
 .hero {
