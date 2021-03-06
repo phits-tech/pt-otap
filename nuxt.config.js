@@ -13,9 +13,9 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Accelerator สำหรับการเริ่มต้นเทคโนโลยีขั้นสูง ที่พิษณุโลก' },
       { hid: 'og:title', property: 'og:title', content: 'IGNITE โดย OTAP' },
-      { hid: 'og:image', property: 'og:image', content: '/default-og-image.png' },
+      { hid: 'og:image', property: 'og:image', content: process.env.BASE_URL + '/default-og-image.png' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: (process.env.BASE_URL || 'http://localhost:3000') }
+      { hid: 'og:url', property: 'og:url', content: process.env.BASE_URL }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
