@@ -49,6 +49,8 @@ jobs:
 
       - name: Build 🧱
         run: yarn build && yarn generate
+        env:
+          BASE_URL: https://otap.phits.tech
         
       - name: Deploy to Firebase 🔥
         uses: FirebaseExtended/action-hosting-deploy@v0
