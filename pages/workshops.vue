@@ -5,33 +5,66 @@
         <h2 class="subtitle">
           กิจกรรมต่อไป
         </h2>
+
         <div class="columns">
           <div class="column">
             <h1 class="title">
-              BMC &amp; TEC Consulting การประเมินแผนธุรกิจและเทคโนโลยี
+              Bootcamp 3: UX and UI Design
             </h1>
             <div class="content is-size-5">
-              <b-icon icon="calendar" /> 10 มีนาคม 2564<br>
-              <b-icon icon="clock" /> 9:00-18:00 (by appointment)<br>
-              <b-icon icon="pin" /> SciPark มหาวิทยาลัยนเรศวร
+              <b-icon icon="calendar" /> 3-4 เมษายน 2564<br>
+              <b-icon icon="clock" /> 9:00-17:00<br>
+              <b-icon icon="pin" /> <a href="https://www.mosaic-collection.com/sukhothai-heritage/">Sukhothai Heritage Resort</a>
             </div>
           </div>
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
-              <figure class="image is-48x48 is-inline-block mr-2">
-                <img class="is-rounded" src="~/assets/images/people/porramate.jpg">
+              <figure class="image is-64x64 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/workshop3-speaker1.jpg">
               </figure>
               <div class="has-text-grey">
-                <span class="is-size-4">
-                  ดร ปรเมษฐ์ ชุ่มยิ้ม
+                <span class="is-size-5">
+                  คุณ อภิรักษ์ ปนาทกูล
                 </span><br>
-                ที่ปรึกษาอาวุโส Food Innopolis สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช)
+                Founder, <a href="https://uxacademy.in.th">UX Academy</a> and UX Thailand<br>
+                UX Coach, <a href="https://medium.com/odds-team">ODDS</a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="columns mt-5">
+        <hr class="my-6">
+        <h2 class="subtitle">
+          กิจกรรมที่จะเกิดขึ้น
+        </h2>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Title</th>
+              <th>Speakers</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1-2 พฤษภาคม 2564</td>
+              <td>Bootcamp 4: Marketing</td>
+              <td>TBC</td>
+            </tr>
+            <tr>
+              <td>14 มิถุนายน 2564</td>
+              <td>Bootcamp 5: Investment การตรวจสอบการลงทุน</td>
+              <td>TBC</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <hr class="my-6">
+        <h2 class="subtitle">
+          กิจกรรมที่ผ่านมา
+        </h2>
+
+        <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
               Bootcamp 2: Agile Mindset and Scrum
@@ -65,41 +98,31 @@
           </div>
         </div>
 
-        <hr class="my-6">
-        <h2 class="subtitle">
-          กิจกรรมที่จะเกิดขึ้น
-        </h2>
-        <table class="table">
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>Title</th>
-              <th>Speakers</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>3-4 เมษายน 2564</td>
-              <td>Bootcamp 3: Design, UX and UI</td>
-              <td>คุณ อภิรักษ์ ปนาทกูล</td>
-            </tr>
-            <tr>
-              <td>1-2 พฤษภาคม 2564</td>
-              <td>Bootcamp 4: Marketing</td>
-              <td>TBC</td>
-            </tr>
-            <tr>
-              <td>14 มิถุนายน 2564</td>
-              <td>Bootcamp 5: Investment การตรวจสอบการลงทุน</td>
-              <td>TBC</td>
-            </tr>
-          </tbody>
-        </table>
-
-        <hr class="my-6">
-        <h2 class="subtitle">
-          กิจกรรมที่ผ่านมา
-        </h2>
+        <div class="columns mb-5">
+          <div class="column">
+            <h1 class="title">
+              BMC &amp; TEC Consulting การประเมินแผนธุรกิจและเทคโนโลยี
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 10 มีนาคม 2564<br>
+              <b-icon icon="clock" /> 9:00-18:00 (by appointment)<br>
+              <b-icon icon="pin" /> SciPark มหาวิทยาลัยนเรศวร
+            </div>
+          </div>
+          <div class="column">
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/porramate.jpg">
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-4">
+                  ดร ปรเมษฐ์ ชุ่มยิ้ม
+                </span><br>
+                ที่ปรึกษาอาวุโส Food Innopolis สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช)
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div class="columns mb-5">
           <div class="column">
