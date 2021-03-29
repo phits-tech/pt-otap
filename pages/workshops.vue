@@ -37,27 +37,66 @@
         <h2 class="subtitle">
           กิจกรรมที่จะเกิดขึ้น
         </h2>
-        <table class="table">
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>Title</th>
-              <th>Speakers</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>1-2 พฤษภาคม 2564</td>
-              <td>Bootcamp 4: Marketing</td>
-              <td>TBC</td>
-            </tr>
-            <tr>
-              <td>14 มิถุนายน 2564</td>
-              <td>Bootcamp 5: Investment การตรวจสอบการลงทุน</td>
-              <td>TBC</td>
-            </tr>
-          </tbody>
-        </table>
+
+        <div class="columns">
+          <div class="column">
+            <h1 class="title">
+              Bootcamp 4: Marketing
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 1-2 พฤษภาคม 2564<br>
+              <b-icon icon="clock" /> 9:00-17:00<br>
+              <b-icon icon="pin" /> TBC
+            </div>
+          </div>
+          <div class="column">
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-64x64 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/workshop4-speaker1.jpg">
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">
+                  คุณ วณิชชา วรรคาวิสันต์
+                </span><br>
+                LINE Certified Coach 2021
+              </div>
+            </div>
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-64x64 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/porramate.jpg">
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">
+                  ดร ปรเมษฐ์ ชุ่มยิ้ม
+                </span><br>
+                ที่ปรึกษาอาวุโส Food Innopolis<br>สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช)
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="columns">
+          <div class="column">
+            <h1 class="title">
+              Bootcamp 5: Investment การตรวจสอบการลงทุน
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 14-15 มิถุนายน 2564<br>
+              <b-icon icon="clock" /> 9:00-17:00<br>
+              <b-icon icon="pin" /> TBC
+            </div>
+          </div>
+          <div class="column">
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <b-icon icon="account-group" size="is-large" style="color: #aaa; background-color: #ddd; border-radius: 24px; overflow: hidden;" />
+              </figure>
+              <span class="has-text-grey is-size-5">
+                Speakers TBC
+              </span>
+            </div>
+          </div>
+        </div>
 
         <hr class="my-6">
         <h2 class="subtitle">
@@ -87,13 +126,16 @@
                 <a href="https://medium.com/odds-team">ODDS</a>
               </div>
             </div>
-            <div class="is-flex is-align-items-center">
+            <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <b-icon icon="account-group" size="is-large" style="color: #aaa; background-color: #ddd; border-radius: 24px; overflow: hidden;" />
+                <img class="is-rounded" src="~/assets/images/people/workshop2-speaker2.jpg">
               </figure>
-              <span class="has-text-grey is-size-5">
-                &amp; team
-              </span>
+              <div class="has-text-grey">
+                <span class="is-size-5">
+                  คุณ พงษ์ศักดิ์ ฤทธิ์พิทักษ์พงศ์
+                </span><br>
+                <a href="https://medium.com/odds-team">ODDS</a>
+              </div>
             </div>
           </div>
         </div>
@@ -115,10 +157,11 @@
                 <img class="is-rounded" src="~/assets/images/people/porramate.jpg">
               </figure>
               <div class="has-text-grey">
-                <span class="is-size-4">
+                <span class="is-size-5">
                   ดร ปรเมษฐ์ ชุ่มยิ้ม
                 </span><br>
-                ที่ปรึกษาอาวุโส Food Innopolis สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช)
+                ที่ปรึกษาอาวุโส Food Innopolis<br>
+                สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช)
               </div>
             </div>
           </div>
@@ -140,7 +183,7 @@
               <figure class="image is-48x48 is-inline-block mr-2">
                 <img class="is-rounded" src="~/assets/images/people/workshop1-speaker1.jpg">
               </figure>
-              <span class="has-text-grey is-size-4">
+              <span class="has-text-grey is-size-5">
                 รศ อรพิณ สันติธีรากุล
               </span>
             </div>
@@ -148,7 +191,7 @@
               <figure class="image is-48x48 is-inline-block mr-2">
                 <img class="is-rounded" src="~/assets/images/people/workshop1-speaker2.jpg">
               </figure>
-              <span class="has-text-grey is-size-4">
+              <span class="has-text-grey is-size-5">
                 ดร ศันสนา สิริตาม
               </span>
             </div>
@@ -156,7 +199,7 @@
               <figure class="image is-48x48 is-inline-block mr-2">
                 <img class="is-rounded" src="~/assets/images/people/workshop1-speaker3.jpg">
               </figure>
-              <span class="has-text-grey is-size-4">
+              <span class="has-text-grey is-size-5">
                 อ สุพจน์ กุลปรางค์ทอง
               </span>
             </div>
