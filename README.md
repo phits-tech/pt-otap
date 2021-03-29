@@ -1,20 +1,22 @@
-# pt-otap
+# OTAP website (IGNITE)
 
-## Build Setup
+## Requirements
 
-```bash
-# install dependencies
-$ yarn install
+- [Node.js](https://nodejs.org)
+- [yarn](https://yarnpkg.com) - install: `npm install -g yarn`
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+## Developer setup
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+1. Install dependencies
+    ```bash
+    $ yarn
+    ```
 
-# generate static project
-$ yarn generate
-```
+2. Run local web server with hot reload
+    ```bash
+    $ yarn dev
+    ```
+    
+3. Open web browser at [http://localhost:3000](http://localhost:3000)
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
