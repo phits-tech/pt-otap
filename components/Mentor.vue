@@ -6,9 +6,13 @@
       </figure>
     </div>
     <div class="card-content">
-      <p class="title is-4">
-        {{ name }}
-      </p>
+      <div class="title is-4">
+        {{ name }}<br>
+        <span class="subtitle is-6" v-if="thaiName">
+          ({{ thaiName }})
+        </span>
+      </div>
+
       <p class="subtitle is-6">
         {{ topics }}
       </p>
@@ -30,6 +34,9 @@ import { Component, Vue, Prop } from 'vue-property-decorator'
 export default class Card extends Vue {
   @Prop()
   name!: string
+
+  @Prop({ default: '' })
+  thaiName!: string
 
   @Prop()
   imageSrc!: string

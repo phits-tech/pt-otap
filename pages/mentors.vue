@@ -20,6 +20,7 @@
             <mentor
               :image-src="require('~/assets/images/people/workshop3-speaker1.jpg')"
               name="Apirak Panatkool"
+              thaiName="อภิรักษ์ ปนาทกูล"
               topics="UX/UI Design"
               linkedin="apirak"
             >
