@@ -143,7 +143,7 @@
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
-            BMC &amp; TEC Consulting<br>การประเมินแผนธุรกิจและเทคโนโลยี
+              BMC &amp; TEC Consulting<br>การประเมินแผนธุรกิจและเทคโนโลยี
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 10 มีนาคม 2564<br>
@@ -209,7 +209,7 @@
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
-            OTAP Launch &amp; Orientation<br>การเปิดตัว OTAP และ การปฐมนิเทศ  
+              OTAP Launch &amp; Orientation<br>การเปิดตัว OTAP และ การปฐมนิเทศ
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 20 กุมภาพันธ์ 2564<br>
@@ -224,7 +224,7 @@
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">
-                  กิตติชัย พิพัฒน์บุญรัตน์
+                  กิตติชัย พิพัฒน์บุณยารัตน์
                 </span><br>
                 <a href="https://apitel.co">Apitel.co</a> / <a href="https://chiangmaiandco.org">Chiangmai&amp;co</a> / ARISTO
               </div>
@@ -235,7 +235,7 @@
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">
-                  สุขกิจ ยโสธรศรีกุล, Ph.D.
+                  สุขกิจ ยะโสธรศรีกุล, Ph.D.
                 </span><br>
                 OTAP / มหาวิทยาลัยนเรศวร
               </div>
