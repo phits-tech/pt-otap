@@ -9,7 +9,7 @@
         <div class="columns">
           <div class="column">
             <h1 class="title">
-              Bootcamp 3: UX and UI Design
+              Bootcamp 3: UX and UI Design<br>การออกแบบ UX และ UI
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 3-4 เมษายน 2564<br>
@@ -41,12 +41,12 @@
         <div class="columns">
           <div class="column">
             <h1 class="title">
-              Bootcamp 4: Marketing
+              Bootcamp 4: Marketing การตลาด
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 1-2 พฤษภาคม 2564<br>
               <b-icon icon="clock" /> 9:00-17:00<br>
-              <b-icon icon="pin" /> TBC
+              <b-icon icon="pin" /> TBC รอการยืนยัน
             </div>
           </div>
           <div class="column">
@@ -78,12 +78,12 @@
         <div class="columns">
           <div class="column">
             <h1 class="title">
-              Bootcamp 5: Investment การตรวจสอบการลงทุน
+              Bootcamp 5: Investment<br>การตรวจสอบการลงทุน
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 14-15 มิถุนายน 2564<br>
               <b-icon icon="clock" /> 9:00-17:00<br>
-              <b-icon icon="pin" /> TBC
+              <b-icon icon="pin" /> TBC รอการยืนยัน
             </div>
           </div>
           <div class="column">
@@ -106,7 +106,7 @@
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
-              Bootcamp 2: Agile Mindset and Scrum
+              Bootcamp 2: Agile Mindset and Scrum<br>ความคิดที่ฉับไวและการต่อสู้
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 13-14 มีนาคม 2564<br>
@@ -143,7 +143,7 @@
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
-              BMC &amp; TEC Consulting การประเมินแผนธุรกิจและเทคโนโลยี
+              BMC &amp; TEC Consulting<br>การประเมินแผนธุรกิจและเทคโนโลยี
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 10 มีนาคม 2564<br>
@@ -170,7 +170,7 @@
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
-              Bootcamp 1: Validation ตรวจสอบความถูกต้อง เหมาะสมของผลิตภัณฑ์
+              Bootcamp 1: Validation<br>ตรวจสอบความถูกต้อง เหมาะสมของผลิตภัณฑ์
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 27-28 กุมภาพันธ์ 2564<br>
@@ -209,7 +209,7 @@
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
-              OTAP Launch &amp; Orientation
+              OTAP Launch &amp; Orientation<br>การเปิดตัว OTAP และ การปฐมนิเทศ
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 20 กุมภาพันธ์ 2564<br>
@@ -224,7 +224,7 @@
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">
-                  Kittichai Phiphatbunyarat
+                  กิตติชัย พิพัฒน์บุณยารัตน์
                 </span><br>
                 <a href="https://apitel.co">Apitel.co</a> / <a href="https://chiangmaiandco.org">Chiangmai&amp;co</a> / ARISTO
               </div>
@@ -235,9 +235,9 @@
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">
-                  Sukhgij Ysothonsreekul, Ph.D.
+                  สุขกิจ ยะโสธรศรีกุล, Ph.D.
                 </span><br>
-                OTAP / Naresuan University
+                OTAP / มหาวิทยาลัยนเรศวร
               </div>
             </div>
           </div>
