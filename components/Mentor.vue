@@ -9,6 +9,9 @@
       <p class="title is-4">
         {{ name }}
       </p>
+      <p class="subtitle is-6" v-if="thaiName">
+        ({{ thaiName }})
+      </p>
       <p class="subtitle is-6">
         {{ topics }}
       </p>
@@ -30,6 +33,9 @@ import { Component, Vue, Prop } from 'vue-property-decorator'
 export default class Card extends Vue {
   @Prop()
   name!: string
+
+  @Prop()
+  thaiName!: string
 
   @Prop()
   imageSrc!: string
