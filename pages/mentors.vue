@@ -110,7 +110,7 @@
               thaiName="เอกสิทธิ์ เทียมแก้ว"
               topics="Online Marketing, Branding, Content Marketing"
             >
-              Online Marketing, Branding, Content Marketing
+              Lecturer at Naresuan University.
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -128,10 +128,10 @@
             <mentor
               :image-src="require('~/assets/images/people/charles.jpg')"
               name="Charles Allen"
-              topics="Agile, Web, Mobile (Android), Chatbots"
+              topics="Agile, Web, Mobile (Android), Chatbot"
               linkedin="ajahncharles"
             >
-              Lecturer at Naresuan University.
+              Winner LINEHACK. Co&#8209;founder Phits.Tech. Polyglot programmer.
             </mentor>
           </div>
         </div>
