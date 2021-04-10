@@ -16,7 +16,7 @@
           </div>
         </div>
         <div class="columns is-multiline">
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/workshop3-speaker1.jpg')"
               name="Apirak Panatkool"
@@ -27,7 +27,7 @@
               Founder of UX Academy and UX Thailand. UX Coach at ODDS.
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/pornpat.jpg')"
               name="Pornpat Pimjaroen"
@@ -38,7 +38,7 @@
               UX Lead at Krungthai.
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/workshop2-speaker1.jpg')"
               name="Twin Panitsombat"
@@ -48,7 +48,7 @@
               Founder of ODDS. Agile Coach.
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/supatida.jpg')"
               name="Supatida Prompayuck"
@@ -59,7 +59,7 @@
               Founder of The S Curve. Women Techmakers Ambassador Thailand.
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/workshop2-speaker2.jpg')"
               name="Phongsak Ritpitakphong"
@@ -69,7 +69,7 @@
               Agile Coach at ODDS.
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/workshop0-speaker1.jpg')"
               name="Kittichai Phiphatbunyarat"
@@ -80,7 +80,7 @@
               Apitel.co / Chiangmai&co / ARISTO
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/porramate.jpg')"
               name="Porramate Chumyim"
@@ -92,7 +92,7 @@
               สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช)
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/wansuree.jpg')"
               name="Wansuree Massagram"
@@ -103,7 +103,7 @@
               Founder of NU Maker Club. Lecturer at Naresuan University.
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/ekkasit.jpg')"
               name="Ekkasit Tiamkaew"
@@ -113,8 +113,7 @@
               Online Marketing, Branding, Content Marketing
             </mentor>
           </div>
-
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/somjintana.jpg')"
               name="Somjintana Korbut"
@@ -125,7 +124,7 @@
               Google Developer Expert in Firebase. Mobile Lead at Rainforest Connection.
             </mentor>
           </div>
-          <div class="column is-one-quarter">
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
               :image-src="require('~/assets/images/people/charles.jpg')"
               name="Charles Allen"
