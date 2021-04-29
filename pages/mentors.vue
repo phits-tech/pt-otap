@@ -20,7 +20,7 @@
             <mentor
               :image-src="require('~/assets/images/people/workshop3-speaker1.jpg')"
               name="Apirak Panatkool"
-              thaiName="อภิรักษ์ ชุ่มยิ้ม"
+              thai-name="อภิรักษ์ ชุ่มยิ้ม"
               topics="UX/UI Design"
               linkedin="apirak"
             >
@@ -31,7 +31,7 @@
             <mentor
               :image-src="require('~/assets/images/people/pornpat.jpg')"
               name="Pornpat Pimjaroen"
-              thaiName="พรภัทร พิมพ์เจริญ"
+              thai-name="พรภัทร พิมพ์เจริญ"
               topics="UX/UI Design"
               linkedin="pornpat-pimjaroen"
             >
@@ -42,7 +42,7 @@
             <mentor
               :image-src="require('~/assets/images/people/workshop2-speaker1.jpg')"
               name="Twin Panitsombat"
-              thaiName="ทวิร พานิชสมบัติ"
+              thai-name="ทวิร พานิชสมบัติ"
               topics="Agile, Scrum"
             >
               Founder of ODDS. Agile Coach.
@@ -52,7 +52,7 @@
             <mentor
               :image-src="require('~/assets/images/people/supatida.jpg')"
               name="Supatida Prompayuck"
-              thaiName="ศุภธิดา พรหมพยัคฆ์"
+              thai-name="ศุภธิดา พรหมพยัคฆ์"
               topics="Marketing, Strategy"
               linkedin="supatida"
             >
@@ -63,7 +63,7 @@
             <mentor
               :image-src="require('~/assets/images/people/workshop2-speaker2.jpg')"
               name="Phongsak Ritpitakphong"
-              thaiName="พงษ์ศักดิ์ ฤทธิ์พิทักษ์พงศ์"
+              thai-name="พงษ์ศักดิ์ ฤทธิ์พิทักษ์พงศ์"
               topics="Agile, Scrum"
             >
               Agile Coach at ODDS.
@@ -73,7 +73,7 @@
             <mentor
               :image-src="require('~/assets/images/people/workshop0-speaker1.jpg')"
               name="Kittichai Phiphatbunyarat"
-              thaiName="กิตติชัย พิพัฒน์บุณยารัตน์"
+              thai-name="กิตติชัย พิพัฒน์บุณยารัตน์"
               topics="Strategy"
               linkedin="kittichai"
             >
@@ -84,7 +84,7 @@
             <mentor
               :image-src="require('~/assets/images/people/porramate.jpg')"
               name="Porramate Chumyim"
-              thaiName="ปรเมษฐ์ ชุ่มยิ้ม"
+              thai-name="ปรเมษฐ์ ชุ่มยิ้ม"
               topics="Strategy, Marketing Analytics"
               linkedin="porramate-chumyim-b8257112b"
             >
@@ -96,7 +96,7 @@
             <mentor
               :image-src="require('~/assets/images/people/wansuree.jpg')"
               name="Wansuree Massagram"
-              thaiName="วันสุรีย์ มาศกรัม"
+              thai-name="วันสุรีย์ มาศกรัม"
               topics="IoT, Hardware"
               linkedin="wansuree-massagram-43776259"
             >
@@ -107,7 +107,7 @@
             <mentor
               :image-src="require('~/assets/images/people/ekkasit.jpg')"
               name="Ekkasit Tiamkaew"
-              thaiName="เอกสิทธิ์ เทียมแก้ว"
+              thai-name="เอกสิทธิ์ เทียมแก้ว"
               topics="Online Marketing, Branding, Content Marketing"
             >
               Lecturer at Naresuan University.
@@ -117,7 +117,7 @@
             <mentor
               :image-src="require('~/assets/images/people/somjintana.jpg')"
               name="Somjintana Korbut"
-              thaiName="สมจินตนา กอบุตร"
+              thai-name="สมจินตนา กอบุตร"
               topics="Mobile (iOS), Web, Firebase"
               linkedin="somjintana-korbut-7691b4bb"
             >
