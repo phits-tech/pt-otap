@@ -24,7 +24,7 @@
               topics="UX/UI Design"
               linkedin="apirak"
             >
-              Founder of UX Academy and UX Thailand. UX Coach at ODDS.
+              ผู้ก่อตั้ง UX Academy และ UX Thailand<br>UX Coach ที่ ODDS
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -35,7 +35,7 @@
               topics="UX/UI Design"
               linkedin="pornpat-pimjaroen"
             >
-              UX Lead at Krungthai.
+              UX Lead ที่กรุงไทย
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -45,7 +45,7 @@
               thai-name="ทวิร พานิชสมบัติ"
               topics="Agile, Scrum"
             >
-              Founder of ODDS. Agile Coach.
+              ผู้ก่อตั้ง ODDS<br>Agile Coach.
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -56,7 +56,7 @@
               topics="Marketing, Strategy"
               linkedin="supatida"
             >
-              Founder of The S Curve. Women Techmakers Ambassador Thailand.
+              ผู้ก่อตั้ง The S Curve Women Techmakers Ambassador ประเทศไทย
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -66,7 +66,7 @@
               thai-name="พงษ์ศักดิ์ ฤทธิ์พิทักษ์พงศ์"
               topics="Agile, Scrum"
             >
-              Agile Coach at ODDS.
+              Agile Coach ที่ ODDS
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -100,7 +100,7 @@
               topics="IoT, Hardware"
               linkedin="wansuree-massagram-43776259"
             >
-              Founder of NU Maker Club. Lecturer at Naresuan University.
+              ผู้ก่อตั้ง NU Maker Club<br>อาจารย์มหาวิทยาลัยนเรศวร
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -110,7 +110,7 @@
               thai-name="เอกสิทธิ์ เทียมแก้ว"
               topics="Online Marketing, Branding, Content Marketing"
             >
-              Lecturer at Naresuan University.
+              อาจารย์มหาวิทยาลัยนเรศวร
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -121,7 +121,7 @@
               topics="Mobile (iOS), Web, Firebase"
               linkedin="somjintana-korbut-7691b4bb"
             >
-              Google Developer Expert in Firebase. Mobile Lead at Rainforest Connection.
+              ผู้เชี่ยวชาญด้านนักพัฒนาซอฟต์แวร์ของ Google ใน Firebase Mobile Lead ที่ Rainforest Connection
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
@@ -131,7 +131,49 @@
               topics="Agile, Web, Mobile (Android), Chatbot"
               linkedin="ajahncharles"
             >
-              Winner LINEHACK. Co&#8209;founder Phits.Tech. Polyglot programmer.
+              ผู้ชนะ LINEHACK ผู้ร่วมก่อตั้ง Phits Tech โปรแกรมเมอร์หลายภาษา
+            </mentor>
+          </div>
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+            <mentor
+              :image-src="require('~/assets/images/people/rungsun.jpg')"
+              name="Rungsun Promprasith"
+              thai-name="รังสรรค์ พรมประสิทธิ์"
+              topics="Strategy"
+              linkedin="superjoh"
+            >
+              บริษัท คิวคิว (ประเทศไทย) จำกัด และ บริษัท วาย เอ็ม เอ็ม วาย จำกัด.
+            </mentor>
+          </div>
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+            <mentor
+              :image-src="require('~/assets/images/people/workshop4-speaker1.jpg')"
+              name="Wanitcha Wankhawisun"
+              thai-name="วณิชชา วรรคาวิสันต์"
+              topics="Online marketing"
+            >
+              บริษัท พาณิชย์ดิจิทัล จำกัด
+            </mentor>
+          </div>
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+            <mentor
+              :image-src="require('~/assets/images/people/anuwut.jpg')"
+              name="Anuwat Jongyindee"
+              thai-name="อนุวัฒน์ จงยินดี"
+              topics="Finance, Strategy, Risk management"
+            >
+              บริษัทพฤกษาโฮลดิ้ง จำกัด (มหาชน)
+            </mentor>
+          </div>
+          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+            <mentor
+              :image-src="require('~/assets/images/people/workshop1-speaker3.jpg')"
+              name="Supot Kulprangthong"
+              thai-name="สุพจน์ กุลปรางค์ทอง"
+              topics="Strategy, Marketing"
+              linkedin="สุพจน์-กุลปรางค์ทอง-36080779"
+            >
+              ที่ปรึกษาอิสระ
             </mentor>
           </div>
         </div>
