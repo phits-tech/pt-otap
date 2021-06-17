@@ -171,7 +171,7 @@
               name="Supot Kulprangthong"
               thai-name="สุพจน์ กุลปรางค์ทอง"
               topics="Strategy, Marketing"
-              linkedin="สุพจน์-กุลปรางค์ทอง-36080779/th"
+              linkedin="สุพจน์-กุลปรางค์ทอง-36080779"
             >
               ที่ปรึกษาอิสระ
             </mentor>
