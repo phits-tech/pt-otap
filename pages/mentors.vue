@@ -131,15 +131,16 @@
               topics="Agile, Web, Mobile (Android), Chatbot"
               linkedin="ajahncharles"
             >
-              ผู้ชนะ LINEHACK ผู้ร่วมก่อตั้ง Pits.Tech โปรแกรมเมอร์หลายภาษา
+              ผู้ชนะ LINEHACK ผู้ร่วมก่อตั้ง Phits Tech โปรแกรมเมอร์หลายภาษา
             </mentor>
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
-              :image-src="require('~/assets/images/people/RungsunPromprasith.jpg')"
-              name="Rangsun Promprasith"
+              :image-src="require('~/assets/images/people/rungsun.jpg')"
+              name="Rungsun Promprasith"
               thai-name="รังสรรค์ พรมประสิทธิ์"
               topics="Strategy"
+              linkedin="superjoh"
             >
               บริษัท คิวคิว (ประเทศไทย) จำกัด และ บริษัท วาย เอ็ม เอ็ม วาย จำกัด.
             </mentor>
@@ -156,10 +157,10 @@
           </div>
           <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
             <mentor
-              :image-src="require('~/assets/images/people/Anuwut.jpg')"
-              name="Anuwat jongyindee"
+              :image-src="require('~/assets/images/people/anuwut.jpg')"
+              name="Anuwat Jongyindee"
               thai-name="อนุวัฒน์ จงยินดี"
-              topics="Financial account, Strategy, Good governance risk management"
+              topics="Finance, Strategy, Risk management"
             >
               บริษัทพฤกษาโฮลดิ้ง จำกัด (มหาชน)
             </mentor>
