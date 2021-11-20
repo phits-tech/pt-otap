@@ -6,36 +6,18 @@
           กิจกรรมต่อไป
         </h2>
 
-        <div class="columns">
-          <div class="column">
-            <h1 class="title">
-              Bootcamp 3: UX and UI Design<br>การออกแบบ UX และ UI
-            </h1>
-            <div class="content is-size-5">
-              <b-icon icon="calendar" /> 3-4 เมษายน 2564<br>
-              <b-icon icon="clock" /> 9:00-17:00<br>
-              <b-icon icon="pin" /> <a href="https://www.mosaic-collection.com/sukhothai-heritage/">Sukhothai Heritage Resort</a>
-            </div>
-          </div>
-          <div class="column">
-            <div class="is-flex is-align-items-center mb-4">
-              <figure class="image is-64x64 is-inline-block mr-2">
-                <img class="is-rounded" src="~/assets/images/people/workshop3-speaker1.jpg">
-              </figure>
-              <div class="has-text-grey">
-                <span class="is-size-5">
-                  คุณ อภิรักษ์ ปนาทกูล
-                </span><br>
-                Founder, <a href="https://uxacademy.in.th">UX Academy</a> and UX Thailand<br>
-                UX Coach, <a href="https://medium.com/odds-team">ODDS</a>
-              </div>
-            </div>
-          </div>
-        </div>
+        <h1 class="title mt-1">
+          <a href="/meet">Meet the Investors</a>
+        </h1>
 
         <hr class="my-6">
         <h2 class="subtitle">
           กิจกรรมที่จะเกิดขึ้น
+        </h2>
+
+        <hr class="my-6">
+        <h2 class="subtitle">
+          กิจกรรมที่ผ่านมา
         </h2>
 
         <div class="columns">
@@ -46,7 +28,7 @@
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 1-2 พฤษภาคม 2564<br>
               <b-icon icon="clock" /> 9:00-17:00<br>
-              <b-icon icon="pin" /> TBC รอการยืนยัน
+              <b-icon icon="pin" /> Online
             </div>
           </div>
           <div class="column">
@@ -78,30 +60,29 @@
         <div class="columns">
           <div class="column">
             <h1 class="title">
-              Bootcamp 5: Investment<br>การตรวจสอบการลงทุน
+              Bootcamp 3: UX and UI Design<br>การออกแบบ UX และ UI
             </h1>
             <div class="content is-size-5">
-              <b-icon icon="calendar" /> 14-15 มิถุนายน 2564<br>
+              <b-icon icon="calendar" /> 3-4 เมษายน 2564<br>
               <b-icon icon="clock" /> 9:00-17:00<br>
-              <b-icon icon="pin" /> TBC รอการยืนยัน
+              <b-icon icon="pin" /> <a href="https://www.mosaic-collection.com/sukhothai-heritage/">Sukhothai Heritage Resort</a>
             </div>
           </div>
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
-              <figure class="image is-48x48 is-inline-block mr-2">
-                <b-icon icon="account-group" size="is-large" style="color: #aaa; background-color: #ddd; border-radius: 24px; overflow: hidden;" />
+              <figure class="image is-64x64 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/workshop3-speaker1.jpg">
               </figure>
-              <span class="has-text-grey is-size-5">
-                Speakers TBC
-              </span>
+              <div class="has-text-grey">
+                <span class="is-size-5">
+                  คุณ อภิรักษ์ ปนาทกูล
+                </span><br>
+                Founder, <a href="https://uxacademy.in.th">UX Academy</a> and UX Thailand<br>
+                UX Coach, <a href="https://medium.com/odds-team">ODDS</a>
+              </div>
             </div>
           </div>
         </div>
-
-        <hr class="my-6">
-        <h2 class="subtitle">
-          กิจกรรมที่ผ่านมา
-        </h2>
 
         <div class="columns mb-5">
           <div class="column">

@@ -60,10 +60,6 @@
     </footer>
   </div>
 </template>
-    </b-navbar>
-  </div>
-</template></div>
-</template>
 
 <script>
 export default {
