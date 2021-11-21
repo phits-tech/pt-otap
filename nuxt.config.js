@@ -53,10 +53,6 @@ export default {
     ['nuxt-buefy', { css: false }] // https://github.com/buefy/nuxt-buefy
   ],
 
-  serverMiddleware: [
-    '~/middleware/redirects.js'
-  ],
-
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
