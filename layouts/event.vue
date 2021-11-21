@@ -61,7 +61,7 @@
             Meet the Investors
           </h2>
           <h3 class="subtitle is-4">
-            Friday 3rd December 2021<br>
+            13:00-18:00, Friday 3rd December 2021<br>
             Factoria BKK Sukhumvit 26
           </h3>
         </div>
