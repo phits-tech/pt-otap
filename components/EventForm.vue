@@ -111,6 +111,15 @@ export default class EventForm extends Vue {
   submitted: boolean = false
 
   async submit () {
+    if (this.requestedTime === '' || this.name === '' || this.phone === '') {
+      this.$buefy.toast.open({
+        message: 'Required: Requested Time, Your Name and Phone',
+        position: 'is-top',
+        type: 'is-danger'
+      })
+      return
+    }
+
     this.submitted = true
 
     const url = 'https://script.google.com/macros/s/AKfycbwYcHjaTEP1AX88lUZLhrgNaCn79-rORgiI85UIzXGfMTMqFNdMWG0nAgxW2ZElOnUK/exec'
@@ -125,13 +134,21 @@ export default class EventForm extends Vue {
     try {
       await fetch(url, { method: 'POST', body })
     } catch (error) {
-      this.$buefy.snackbar.open({ type: 'is-danger', message: 'Something went wrong. Please try again.' })
+      this.$buefy.toast.open({
+        message: 'Something went wrong. Please try again.',
+        position: 'is-top',
+        type: 'is-danger'
+      })
       return
     }
 
     this.$emit('close')
 
-    this.$buefy.snackbar.open('Request received! Our team will be in contact to confirm.')
+    this.$buefy.toast.open({
+      message: 'Request received! Our team will be in contact shortly to confirm.',
+      position: 'is-top',
+      type: 'is-success'
+    })
   }
 }
 </script>
