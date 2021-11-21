@@ -29,10 +29,18 @@
               expanded
               required
             >
-              <option value="16:00">16:00-16:30</option>
-              <option value="16:30">16:30-17:00</option>
-              <option value="17:00">17:00-17:30</option>
-              <option value="17:30">17:30-18:00</option>
+              <option value="16:00">
+                16:00-16:30
+              </option>
+              <option value="16:30">
+                16:30-17:00
+              </option>
+              <option value="17:00">
+                17:00-17:30
+              </option>
+              <option value="17:30">
+                17:30-18:00
+              </option>
             </b-select>
           </b-field>
         </div>
