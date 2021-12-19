@@ -23,7 +23,7 @@
             <div class="column post is-6">
               <article class="columns is-multiline">
                 <div class="column is-12 post-img">
-                  <img src="~/assets/images/teams/cohort1/areal.jpg" alt="Featured Image">
+                  <img src="~/assets/cohort1/areal.jpg" alt="Featured Image">
                 </div>
                 <div class="column is-12 featured-content ">
                   <h3 class="heading post-category">
@@ -47,7 +47,7 @@
             <div class="column post is-6">
               <article class="columns is-multiline">
                 <div class="column is-12 post-img">
-                  <img src="~/assets/images/teams/cohort1/dronebox.jpg" alt="Featured Image">
+                  <img src="~/assets/cohort1/dronebox.jpg" alt="Featured Image">
                 </div>
                 <div class="column is-12 featured-content ">
                   <h3 class="heading post-category">
@@ -71,7 +71,7 @@
             <div class="column post is-6">
               <article class="columns is-multiline">
                 <div class="column is-12 post-img">
-                  <img src="~/assets/images/teams/cohort1/blackbox.jpg" alt="Featured Image">
+                  <img src="~/assets/cohort1/blackbox.jpg" alt="Featured Image">
                 </div>
                 <div class="column is-12 featured-content ">
                   <h3 class="heading post-category">
@@ -95,7 +95,7 @@
             <div class="column post is-6">
               <article class="columns is-multiline">
                 <div class="column is-12 post-img">
-                  <img src="~/assets/images/teams/cohort1/keptfun.jpg" alt="Featured Image">
+                  <img src="~/assets/cohort1/keptfun.jpg" alt="Featured Image">
                 </div>
                 <div class="column is-12 featured-content ">
                   <h3 class="heading post-category">
@@ -119,7 +119,7 @@
             <div class="column post is-6">
               <article class="columns is-multiline">
                 <div class="column is-12 post-img">
-                  <img src="~/assets/images/teams/cohort1/pantai.jpg" alt="Featured Image">
+                  <img src="~/assets/cohort1/pantai.jpg" alt="Featured Image">
                 </div>
                 <div class="column is-12 featured-content ">
                   <h3 class="heading post-category">
@@ -143,7 +143,7 @@
             <div class="column post is-6">
               <article class="columns is-multiline">
                 <div class="column is-12 post-img">
-                  <img src="~/assets/images/teams/cohort1/atgait.jpg" alt="Featured Image">
+                  <img src="~/assets/cohort1/atgait.jpg" alt="Featured Image">
                 </div>
                 <div class="column is-12 featured-content ">
                   <h3 class="heading post-category">
@@ -167,7 +167,7 @@
             <div class="column post is-6">
               <article class="columns is-multiline">
                 <div class="column is-12 post-img">
-                  <img src="~/assets/images/teams/cohort1/destinatech.jpg" alt="Featured Image">
+                  <img src="~/assets/cohort1/destinatech.jpg" alt="Featured Image">
                 </div>
                 <div class="column is-12 featured-content ">
                   <h3 class="heading post-category">
@@ -191,7 +191,7 @@
             <div class="column post is-6">
               <article class="columns is-multiline">
                 <div class="column is-12 post-img">
-                  <img src="~/assets/images/teams/cohort1/biscat.jpg" alt="Featured Image">
+                  <img src="~/assets/cohort1/biscat.jpg" alt="Featured Image">
                 </div>
                 <div class="column is-12 featured-content ">
                   <h3 class="heading post-category">
