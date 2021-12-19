@@ -271,21 +271,6 @@
         </div>
       </div>
     </div>
-    <b-modal
-      v-model="isModalActive"
-      has-modal-card
-      auto-focus
-      trap-focus
-      can-cancel
-      aria-role="dialog"
-      aria-label="Example Modal"
-      close-button-aria-label="Close"
-      aria-modal
-    >
-      <template #default="props">
-        <EventForm v-bind="formProps" @close="props.close" />
-      </template>
-    </b-modal>
   </section>
 </template>
 
@@ -294,10 +279,6 @@ import EventForm from '~/components/EventForm.vue'
 import Video from '~/components/Video.vue'
 
 export default {
-  components: {
-    EventForm,
-    Video
-  },
   layout: 'event',
   data () {
     return {
