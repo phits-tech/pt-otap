@@ -39,7 +39,13 @@
                   <b-button
                     label="Meet"
                     type="is-primary"
+                    disabled
                     @click="openEventForm('AREAL')"
+                  />
+                  <b-button
+                    label="Video"
+                    type="is-primary"
+                    @click="openVideo('cohort1/areal.mp4')"
                   />
                 </div>
               </article>
@@ -63,7 +69,14 @@
                   <b-button
                     label="Meet"
                     type="is-primary"
+                    disabled
+                    title="Event has ended"
                     @click="openEventForm('Dronebox')"
+                  />
+                  <b-button
+                    label="Video"
+                    type="is-primary"
+                    @click="openVideo('cohort1/dronebox.mp4')"
                   />
                 </div>
               </article>
@@ -87,7 +100,14 @@
                   <b-button
                     label="Meet"
                     type="is-primary"
+                    disabled
+                    title="Event has ended"
                     @click="openEventForm('Blackbox')"
+                  />
+                  <b-button
+                    label="Video"
+                    type="is-primary"
+                    @click="openVideo('cohort1/blackbox.mp4')"
                   />
                 </div>
               </article>
@@ -111,7 +131,14 @@
                   <b-button
                     label="Meet"
                     type="is-primary"
+                    disabled
+                    title="Event has ended"
                     @click="openEventForm('Keptfun')"
+                  />
+                  <b-button
+                    label="Video"
+                    type="is-primary"
+                    @click="openVideo('cohort1/keptfun.mp4')"
                   />
                 </div>
               </article>
@@ -135,7 +162,14 @@
                   <b-button
                     label="Meet"
                     type="is-primary"
+                    disabled
+                    title="Event has ended"
                     @click="openEventForm('Pantai RTK')"
+                  />
+                  <b-button
+                    label="Video"
+                    type="is-primary"
+                    @click="openVideo('cohort1/pantai.mp4')"
                   />
                 </div>
               </article>
@@ -159,7 +193,14 @@
                   <b-button
                     label="Meet"
                     type="is-primary"
+                    disabled
+                    title="Event has ended"
                     @click="openEventForm('At-Gait')"
+                  />
+                  <b-button
+                    label="Video"
+                    type="is-primary"
+                    @click="openVideo('cohort1/atgait.mp4')"
                   />
                 </div>
               </article>
@@ -183,7 +224,14 @@
                   <b-button
                     label="Meet"
                     type="is-primary"
+                    disabled
+                    title="Event has ended"
                     @click="openEventForm('Destinatech')"
+                  />
+                  <b-button
+                    label="Video"
+                    type="is-primary"
+                    @click="openVideo('cohort1/destinatech.mp4')"
                   />
                 </div>
               </article>
@@ -207,7 +255,14 @@
                   <b-button
                     label="Meet"
                     type="is-primary"
+                    disabled
+                    title="Event has ended"
                     @click="openEventForm('Biscat')"
+                  />
+                  <b-button
+                    label="Video"
+                    type="is-primary"
+                    @click="openVideo('cohort1/biscat.mp4')"
                   />
                 </div>
               </article>
@@ -236,10 +291,12 @@
 
 <script>
 import EventForm from '~/components/EventForm.vue'
+import Video from '~/components/Video.vue'
 
 export default {
   components: {
-    EventForm
+    EventForm,
+    Video
   },
   layout: 'event',
   data () {
@@ -257,6 +314,14 @@ export default {
         component: EventForm,
         props: { team },
         hasModalCard: true,
+        trapFocus: true
+      })
+    },
+    openVideo (assetPath) {
+      this.$buefy.modal.open({
+        parent: this,
+        component: Video,
+        props: { assetPath },
         trapFocus: true
       })
     }
