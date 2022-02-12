@@ -71,12 +71,16 @@ export default {
           to: { name: 'index' }
         },
         {
-          title: 'Workshops',
-          to: { name: 'workshops' }
+          title: 'Schedule',
+          to: { name: 'current' }
         },
         {
           title: 'Mentors',
           to: { name: 'mentors' }
+        },
+        {
+          title: 'Previous',
+          to: { name: 'previous' }
         }
       ]
     }

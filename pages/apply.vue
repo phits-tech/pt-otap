@@ -8,10 +8,10 @@
     <section class="section">
       <div class="container">
         <h1 class="title">
-          Apply
+          Apply to join IGNITE
         </h1>
         <p class="has-text-grey is-size-5">
-          เปิดรับสมัครรอบต่อไป เดือนมกราคม 2565
+          เปิดรับสมัครรอบต่อไป Cohort 3 เดือนกรกฎาคม 2565
         </p>
         <p class="has-text-grey is-size-5 mt-4">
           ติดตามเราได้ที่ <a href="https://www.facebook.com/OTAP-NU-106039058143693">OTAP NU Facebook</a>

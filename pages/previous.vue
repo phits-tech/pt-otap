@@ -3,22 +3,12 @@
     <section class="section">
       <div class="container">
         <h2 class="subtitle">
-          กิจกรรมต่อไป
+          Cohort 1 กิจกรรมที่ผ่านมา
         </h2>
 
         <h1 class="title mt-1">
           <a href="/meet">Meet the Investors</a>
         </h1>
-
-        <hr class="my-6">
-        <h2 class="subtitle">
-          กิจกรรมที่จะเกิดขึ้น
-        </h2>
-
-        <hr class="my-6">
-        <h2 class="subtitle">
-          กิจกรรมที่ผ่านมา
-        </h2>
 
         <div class="columns">
           <div class="column">
@@ -228,7 +218,7 @@
   </div>
 </template>
 
-<script src="./workshops.ts" lang="ts"></script>
+<script src="./previous" lang="ts"></script>
 
 <style lang="scss" scoped>
 .hero {
