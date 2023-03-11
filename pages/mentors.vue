@@ -2,32 +2,39 @@
   <div>
     <section class="section">
       <div class="container">
-        <h1 class="title">
-          Mentors
-        </h1>
+        <h1 class="title">Mentors</h1>
         <div class="notification is-link is-light has-text-centered">
           <div class="is-5 mb-3">
             For IGNITE teams, please complete the form to request a mentor.
           </div>
           <div>
-            <a class="button is-link" href="https://docs.google.com/forms/d/e/1FAIpQLSe04AbChG3skk1XebBh5rrwv76gSNy53Hi2-Mh83reqOhRT9g/viewform">
+            <a
+              class="button is-link"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSe04AbChG3skk1XebBh5rrwv76gSNy53Hi2-Mh83reqOhRT9g/viewform"
+            >
               Request A Mentor
             </a>
           </div>
         </div>
         <div class="columns is-multiline">
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
-              :image-src="require('~/assets/images/people/workshop3-speaker1.jpg')"
+              :image-src="
+                require('~/assets/images/people/workshop3-speaker1.jpg')
+              "
               name="Apirak Panatkool"
               thai-name="อภิรักษ์ ปนาทกูล"
               topics="UX/UI Design"
               linkedin="apirak"
             >
-              ผู้ก่อตั้ง UX Academy และ UX Thailand<br>UX Coach ที่ ODDS
+              ผู้ก่อตั้ง UX Academy และ UX Thailand<br />UX Coach ที่ ODDS
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
               :image-src="require('~/assets/images/people/pornpat.jpg')"
               name="Pornpat Pimjaroen"
@@ -38,17 +45,23 @@
               UX Lead ที่กรุงไทย
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
-              :image-src="require('~/assets/images/people/workshop2-speaker1.jpg')"
+              :image-src="
+                require('~/assets/images/people/workshop2-speaker1.jpg')
+              "
               name="Twin Panitsombat"
               thai-name="ทวิร พานิชสมบัติ"
               topics="Agile, Scrum"
             >
-              ผู้ก่อตั้ง ODDS<br>Agile Coach.
+              ผู้ก่อตั้ง ODDS<br />Agile Coach.
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
               :image-src="require('~/assets/images/people/supatida.jpg')"
               name="Supatida Prompayuck"
@@ -59,9 +72,13 @@
               ผู้ก่อตั้ง The S Curve Women Techmakers Ambassador ประเทศไทย
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
-              :image-src="require('~/assets/images/people/workshop2-speaker2.jpg')"
+              :image-src="
+                require('~/assets/images/people/workshop2-speaker2.jpg')
+              "
               name="Phongsak Ritpitakphong"
               thai-name="พงษ์ศักดิ์ ฤทธิ์พิทักษ์พงศ์"
               topics="Agile, Scrum"
@@ -69,9 +86,13 @@
               Agile Coach ที่ ODDS
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
-              :image-src="require('~/assets/images/people/workshop0-speaker1.jpg')"
+              :image-src="
+                require('~/assets/images/people/workshop0-speaker1.jpg')
+              "
               name="Kittichai Phiphatbunyarat"
               thai-name="กิตติชัย พิพัฒน์บุณยารัตน์"
               topics="Strategy"
@@ -80,19 +101,9 @@
               Apitel.co / Chiangmai&co / ARISTO
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
-            <mentor
-              :image-src="require('~/assets/images/people/porramate.jpg')"
-              name="Porramate Chumyim"
-              thai-name="ปรเมษฐ์ ชุ่มยิ้ม"
-              topics="Strategy, Marketing Analytics"
-              linkedin="porramate-chumyim-b8257112b"
-            >
-              ที่ปรึกษาอาวุโส Food Innopolis
-              สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช)
-            </mentor>
-          </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
               :image-src="require('~/assets/images/people/wansuree.jpg')"
               name="Wansuree Massagram"
@@ -100,10 +111,12 @@
               topics="IoT, Hardware"
               linkedin="wansuree-massagram-43776259"
             >
-              ผู้ก่อตั้ง NU Maker Club<br>อาจารย์มหาวิทยาลัยนเรศวร
+              ผู้ก่อตั้ง NU Maker Club<br />อาจารย์มหาวิทยาลัยนเรศวร
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
               :image-src="require('~/assets/images/people/ekkasit.jpg')"
               name="Ekkasit Tiamkaew"
@@ -113,7 +126,9 @@
               อาจารย์มหาวิทยาลัยนเรศวร
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
               :image-src="require('~/assets/images/people/somjintana.jpg')"
               name="Somjintana Korbut"
@@ -121,10 +136,13 @@
               topics="Mobile (iOS), Web, Firebase"
               linkedin="somjintana-korbut-7691b4bb"
             >
-              ผู้เชี่ยวชาญด้านนักพัฒนาซอฟต์แวร์ของ Google ใน Firebase Mobile Lead ที่ Rainforest Connection
+              ผู้เชี่ยวชาญด้านนักพัฒนาซอฟต์แวร์ของ Google ใน Firebase Mobile
+              Lead ที่ Rainforest Connection
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
               :image-src="require('~/assets/images/people/charles.jpg')"
               name="Charles Allen"
@@ -134,7 +152,9 @@
               ผู้ชนะ LINEHACK ผู้ร่วมก่อตั้ง Phits Tech โปรแกรมเมอร์หลายภาษา
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
               :image-src="require('~/assets/images/people/rungsun.jpg')"
               name="Rungsun Promprasith"
@@ -142,12 +162,17 @@
               topics="Strategy"
               linkedin="superjoh"
             >
-              บริษัท คิวคิว (ประเทศไทย) จำกัด และ บริษัท วาย เอ็ม เอ็ม วาย จำกัด.
+              บริษัท คิวคิว (ประเทศไทย) จำกัด และ บริษัท วาย เอ็ม เอ็ม วาย
+              จำกัด.
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
-              :image-src="require('~/assets/images/people/workshop4-speaker1.jpg')"
+              :image-src="
+                require('~/assets/images/people/workshop4-speaker1.jpg')
+              "
               name="Wanitcha Wankhawisun"
               thai-name="วณิชชา วรรคาวิสันต์"
               topics="Online marketing"
@@ -155,7 +180,9 @@
               บริษัท พาณิชย์ดิจิทัล จำกัด
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
               :image-src="require('~/assets/images/people/anuwut.jpg')"
               name="Anuwat Jongyindee"
@@ -165,15 +192,133 @@
               บริษัทพฤกษาโฮลดิ้ง จำกัด (มหาชน)
             </mentor>
           </div>
-          <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
             <mentor
-              :image-src="require('~/assets/images/people/workshop1-speaker3.jpg')"
+              :image-src="
+                require('~/assets/images/people/workshop1-speaker3.jpg')
+              "
               name="Supot Kulprangthong"
               thai-name="สุพจน์ กุลปรางค์ทอง"
               topics="Strategy, Marketing"
               linkedin="สุพจน์-กุลปรางค์ทอง-36080779"
             >
-              ที่ปรึกษาอิสระ
+              ที่ปรึกษาการตลาด
+            </mentor>
+          </div>
+        </div>
+
+        <div>
+          <h1 class="title mb-5">เชี่ยวชาญด้าน Marketing</h1>
+        </div>
+        <div class="columns is-multiline">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
+            <mentor
+              :image-src="require('~/assets/images/people/porramate.png')"
+              name="Porramate Chumyim"
+              thai-name="ปรเมษฐ์ ชุ่มยิ้ม"
+              topics="Strategy, Marketing Analytics"
+              linkedin="porramate-chumyim-b8257112b"
+            >
+              ที่ปรึกษาอาวุโส Food Innopolis
+              สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช)
+            </mentor>
+          </div>
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
+            <mentor
+              :image-src="require('~/assets/images/people/sureeporn.png')"
+              name="Sureeporn Ratchapolsitt"
+              thai-name="สุลีพร ราชพลสิทธ์"
+              topics="Marketing, Business Design"
+              linkedin=""
+            >
+              Human-Centered Business Consultant&Incubator
+            </mentor>
+          </div>
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
+            <mentor
+              :image-src="require('~/assets/images/people/srung.jpg')"
+              name="Srung Smanmoot"
+              thai-name="ดร.สรวง สมานหมู่"
+              topics="International Marketing"
+              linkedin=""
+            >
+              ผู้ก่อตั้งและประธานกรรมการฝ่ายปฏิบัติการ บริษัท ควอนตัม ไบโอเทค
+              จำกัด
+            </mentor>
+          </div>
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
+            <mentor
+              :image-src="require('~/assets/images/people/antony.png')"
+              name="Dr. Antony Harfield"
+              thai-name=""
+              topics=""
+              linkedin=""
+            >
+              External Partner
+            </mentor>
+          </div>
+        </div>
+        <div>
+          <h1 class="title mb-5">เชี่ยวชาญด้าน Marketing</h1>
+        </div>
+        <div class="columns is-multiline">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
+            <mentor
+              :image-src="require('~/assets/images/people/chantawat.png')"
+              name="Chantawat Wandee"
+              thai-name="ฉันทวัต วันดี"
+              topics="Finance"
+              linkedin=""
+            >
+              ผู้เชี่ยวชาญด้านการเงิน
+            </mentor>
+          </div>
+        </div>
+        <div>
+          <h1 class="title mb-5">เชี่ยวชาญด้านการออกแบบ</h1>
+        </div>
+        <div class="columns is-multiline">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
+            <mentor
+              :image-src="require('~/assets/images/people/thanabat.jpg')"
+              name="Thanabat Poonthub"
+              thai-name="ธนบัตร บุญธูป"
+              topics="UX/UI"
+              linkedin=""
+            >
+              [UX Designer] User Researcher ODD-E THAILAND
+            </mentor>
+          </div>
+        </div>
+        <div>
+          <h1 class="title mb-5">เชี่ยวชาญด้านการทรัพย์สินทางปัญญา</h1>
+        </div>
+        <div class="columns is-multiline">
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
+            <mentor
+              :image-src="require('~/assets/images/people/akkharawit.png')"
+              name="Akkharawit Kanjanaopasb"
+              thai-name="ผศ.ดร. อัครวิทย์ กาญจนโอภาษ"
+              topics="IP Strategy"
+              linkedin=""
+            >
+              รองเลขาธิการ สวทน. และ CEO โครงการเมืองนวัตกรรมอาหาร (FOOD INNOPOLIS)
             </mentor>
           </div>
         </div>
@@ -181,3 +326,5 @@
     </section>
   </div>
 </template>
+
+
