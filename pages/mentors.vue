@@ -326,5 +326,3 @@
     </section>
   </div>
 </template>
-
-
