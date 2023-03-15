@@ -269,7 +269,7 @@
           </div>
         </div>
         <div>
-          <h1 class="title mb-5">เชี่ยวชาญด้าน Marketing</h1>
+          <h1 class="title mb-5">เชี่ยวชาญด้านการเงิน</h1>
         </div>
         <div class="columns is-multiline">
           <div
