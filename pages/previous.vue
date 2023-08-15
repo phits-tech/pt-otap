@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="section">
-      <div class="container"> 
+      <div class="container">
         <h1 class="title mt-1">
           <a href="/meet">Gate 3</a>
         </h1>
