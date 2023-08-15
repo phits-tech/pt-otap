@@ -2,6 +2,109 @@
   <div>
     <section class="section">
       <div class="container">
+
+        <h1 class="title mt-1">
+          <a href="/meet">Gate 3</a>
+        </h1>
+
+        <div class="columns mb-5">
+          <div class="column">
+            <h1 class="title">
+              กิจกรรมที่ 1 : Feng Shui For Entrepreneurs
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 27 สิงหาคม 2566<br />
+              <b-icon icon="clock" /> 08.00 - 17.00 <br />
+              <b-icon icon="pin" /> ณ The Pride Hotel Phitsanulok จังหวัดพิษณุโลก <br />
+            </div>
+          </div>
+          <div class="column">
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img
+                  class="is-rounded"
+                  src="~/assets/images/people/trinnaran.png"
+                />
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">K.TRINNARAN ASAWAWARANON </span><br />
+                ผู้เชี่ยวชาญด้านการพัฒนาบุคลากร
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+        <h1 class="title mt-1">
+          <a href="/meet">Gate 2</a>
+        </h1>
+
+        <div class="columns mb-5">
+          <div class="column">
+            <h1 class="title">
+              กิจกรรมที่ 2 : Valuation for Startup
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 21-22 พฤษภาคม 2566<br />
+              <b-icon icon="clock" /> 08.00 - 17.00 <br />
+              <b-icon icon="pin" /> ณ ฟลุ๊คคอฟฟี่เฮ้าส์ อำเภอพรหมพิราม จังหวัดพิษณุโลก <br />
+            </div>
+          </div>
+          <div class="column">
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img
+                  class="is-rounded"
+                  src="~/assets/images/people/sayan.png"
+                />
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">อ.สายัณห์ ไวรางกูร </span><br />
+                ผู้เชี่ยวชาญทางด้านวิเคราะห์และวางแผนธุรกิจ
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="columns mb-5">
+          <div class="column">
+            <h1 class="title">
+              กิจกรรมที่ 1  : HOW BRAND CAN ACCEL DEEP TECH BUSINESS
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 28 - 29 มีนาคม 2566<br />
+              <b-icon icon="clock" /> 08.00 - 17.00 <br />
+              <b-icon icon="pin" /> ณ เดอะบลูสกาย เขาค้อ จ.เพชรบูรณ์ <br />
+            </div>
+          </div>
+          <div class="column">
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img
+                  class="is-rounded"
+                  src="~/assets/images/people/sirikul.png"
+                />
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">ดร.ศิริกุล เลากัยกุล </span><br />
+                ผู้เชี่ยวชาญทางด้านการสร้างแบรนด์
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
         <h2 class="subtitle">Cohort 2 กิจกรรมที่ผ่านมา</h2>
 
         <h1 class="title mt-1">
