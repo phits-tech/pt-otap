@@ -1,12 +1,10 @@
 <template>
   <div>
     <section class="section">
-      <div class="container">
-        
+      <div class="container"> 
         <h1 class="title mt-1">
           <a href="/meet">Gate 3</a>
         </h1>
-
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
@@ -27,17 +25,15 @@
                 />
               </figure>
               <div class="has-text-grey">
-                <span class="is-size-5">K.TRINNARAN ASAWAWARANON </span><br />
+                <span class="is-size-5">K.TRINNARAN ASAWAWARANON</span><br />
                 ผู้เชี่ยวชาญด้านการพัฒนาบุคลากร
               </div>
             </div>
           </div>
         </div>
-
         <h1 class="title mt-1">
           <a href="/meet">Gate 2</a>
         </h1>
-
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
@@ -46,7 +42,7 @@
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 21-22 พฤษภาคม 2566<br />
               <b-icon icon="clock" /> 08.00 - 17.00 <br />
-              <b-icon icon="pin" /> ณ ฟลุ๊คคอฟฟี่เฮ้าส์ อำเภอพรหมพิราม จังหวัดพิษณุโลก <br />
+              <b-icon icon="pin" /> ณ ฟลุ๊คคอฟฟี่เฮ้าส์ อำเภอพรหมพิราม จังหวัดพิษณุโลก<br />
             </div>
           </div>
           <div class="column">
@@ -58,13 +54,12 @@
                 />
               </figure>
               <div class="has-text-grey">
-                <span class="is-size-5">อ.สายัณห์ ไวรางกูร </span><br />
+                <span class="is-size-5">อ.สายัณห์ ไวรางกูร</span><br />
                 ผู้เชี่ยวชาญทางด้านวิเคราะห์และวางแผนธุรกิจ
               </div>
             </div>
           </div>
         </div>
-
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
@@ -72,8 +67,8 @@
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 28 - 29 มีนาคม 2566<br />
-              <b-icon icon="clock" /> 08.00 - 17.00 <br />
-              <b-icon icon="pin" /> ณ เดอะบลูสกาย เขาค้อ จ.เพชรบูรณ์ <br />
+              <b-icon icon="clock" /> 08.00 - 17.00<br />
+              <b-icon icon="pin" /> ณ เดอะบลูสกาย เขาค้อ จ.เพชรบูรณ์<br />
             </div>
           </div>
           <div class="column">
