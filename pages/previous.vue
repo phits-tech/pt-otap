@@ -2,7 +2,7 @@
   <div>
     <section class="section">
       <div class="container">
-
+        
         <h1 class="title mt-1">
           <a href="/meet">Gate 3</a>
         </h1>
@@ -33,10 +33,6 @@
             </div>
           </div>
         </div>
-
-
-
-
 
         <h1 class="title mt-1">
           <a href="/meet">Gate 2</a>
@@ -95,15 +91,6 @@
             </div>
           </div>
         </div>
-
-
-
-
-
-
-
-
-
 
         <h2 class="subtitle">Cohort 2 กิจกรรมที่ผ่านมา</h2>
 
