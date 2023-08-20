@@ -17,7 +17,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node: [14]
+        node: [16.13]
 
     steps:
       - name: Checkout 🛎
@@ -28,26 +28,21 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
 
-      - name: Install firbase CLI
-        run: npm install -g firebase-tools@9.4.0
+      - name: Get yarn cache directory path 🛠
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
 
-      # - name: Get yarn cache directory path 🛠
-      #   id: yarn-cache-dir-path
-      #   run: echo "::set-output name=dir::$(yarn cache dir)"
+      - name: Cache node_modules 📦
+        uses: actions/cache@v2
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
 
-      # - name: Cache node_modules 📦
-      #   uses: actions/cache@v2
-      #   id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
-      #   with:
-      #     path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-      #     key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-      #     restore-keys: |
-      #       ${{ runner.os }}-yarn-
-
-      # - name: Install dependencies 👨🏻‍💻
-      #   run: yarn --frozen-lockfile
       - name: Install dependencies 👨🏻‍💻
-        run: yarn install --frozen-lockfile
+        run: yarn --frozen-lockfile
 
       - name: Run linter 👀
         run: yarn lint
