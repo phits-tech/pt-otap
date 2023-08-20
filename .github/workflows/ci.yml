@@ -28,9 +28,6 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
 
-      - name: Install firbase CLI
-        run: npm install -g firebase-tools@9.4.0
-
       - name: Get yarn cache directory path 🛠
         id: yarn-cache-dir-path
         run: echo "::set-output name=dir::$(yarn cache dir)"
@@ -54,9 +51,12 @@ jobs:
         run: yarn build && yarn generate
         env:
           BASE_URL: https://otap.phits.tech
+
+      - name: Install firbase CLI
+        run: npm install -g firebase-tools@9.4.0
         
       - name: Deploy to Firebase 🔥
-        run: firebase deploy --only hosting --project pt-otap
+        run: npx firebase-tools deploy --only hosting --project pt-otap --json
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_PT_OTAP }}
           FIREBASE_CLI_PREVIEWS: hostingchannels
