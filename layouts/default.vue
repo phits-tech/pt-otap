@@ -81,6 +81,10 @@ export default {
         {
           title: 'Previous',
           to: { name: 'previous' }
+        },
+        {
+          title: 'Alliance',
+          to: { name: 'alliance' }
         }
       ]
     }
