@@ -38,14 +38,12 @@
               6.How to User Product Diversity to Stand Out
             </p>
           </div>
-
           <div class="mt">
             <img src="~/assets/alliance/img1.png" style="max-width: 450px;" />
             <img src="~/assets/alliance/img2.png" style="max-width: 450px;" />
           </div>
         </div>
         <hr />
-
         <h2 class="title is-4">
           ประชุมสัมมานา Harnessing the Power of Deep-Tech Accelerator Alliances
         </h2>
@@ -70,7 +68,6 @@
             มหาวิทยาลัยนเรศวร
             มากล่าวแนะนำระบบนิเวศและนวัตกรรมของมหาวิทยาลัยนเรศวร
           </p>
-
           <div class="mt">
             <img src="~/assets/alliance/img3.png" style="max-height: 350px;" />
             <img src="~/assets/alliance/img4.png" style="max-height: 350px;" />
@@ -91,4 +88,3 @@ p.no-margin {
   margin-top: 1rem;
 }
 </style>
-
