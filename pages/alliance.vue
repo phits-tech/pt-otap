@@ -2,6 +2,24 @@
   <div>
     <section class="section">
       <div class="container">
+        <h2 class="title is-4">เรียนรู้ระบบคลาวด์กับบริษัท Google</h2>
+        <div class="content is-4">
+          <b-icon icon="calendar" />วันที่ 18 สิงหาคม 2566<br />
+          <b-icon icon="pin" /> ห้องประชุมเยาวราช โรงแรมอุกูระ กรุงเทพ
+          <br />
+          <p class="mt">
+            OTAP ได้นำทีมสตาร์ทอัพทั้งสองรุ่น ประกอบไปด้วยทีม Drone Box
+            ,Phytonabis ,Smart Club ,Quantum Biotech
+            เข้าเรียนรู้ระบบคลาวด์กับบริษัท Google ณ อาคาร Part Venture โรงแรม
+            OKURA กรุงเทพมหานคร โดยมีคุณคณิศศร เปรมประเสริฐและ ดร.ศุภธิดา
+            พรหมพยัคฆ์ ผู้บริหารของบริษัทมาต้อนรับและให้ความรู้ในครั้งนี้
+          </p>
+          <div class="mt">
+            <img src="~/assets/alliance/img5.png" style="max-height: 350px;" />
+            <img src="~/assets/alliance/img6.png" style="max-height: 350px;" />
+          </div>
+        </div>
+        <hr />
         <h2 class="title is-4">โครงการ FOREFOOD BOOTCAMP 3</h2>
         <div class="content is-4">
           <b-icon icon="calendar" />วันที่ 26 - 30 ก.ค. 2566<br />

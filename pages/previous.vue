@@ -7,13 +7,12 @@
         </h1>
         <div class="columns mb-5">
           <div class="column">
-            <h1 class="title">
-              กิจกรรมที่ 1 : Feng Shui For Entrepreneurs
-            </h1>
+            <h1 class="title">กิจกรรมที่ 1 : Feng Shui For Entrepreneurs</h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 27 สิงหาคม 2566<br />
               <b-icon icon="clock" /> 08.00 - 17.00 <br />
-              <b-icon icon="pin" /> ณ The Pride Hotel Phitsanulok จังหวัดพิษณุโลก <br />
+              <b-icon icon="pin" /> ณ The Pride Hotel Phitsanulok
+              จังหวัดพิษณุโลก <br />
             </div>
           </div>
           <div class="column">
@@ -31,18 +30,19 @@
             </div>
           </div>
         </div>
+        <hr>
+
         <h1 class="title mt-1">
           <a href="/meet">Gate 2</a>
         </h1>
         <div class="columns mb-5">
           <div class="column">
-            <h1 class="title">
-              กิจกรรมที่ 2 : Valuation for Startup
-            </h1>
+            <h1 class="title">กิจกรรมที่ 2 : Valuation for Startup</h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 21-22 พฤษภาคม 2566<br />
               <b-icon icon="clock" /> 08.00 - 17.00 <br />
-              <b-icon icon="pin" /> ณ ฟลุ๊คคอฟฟี่เฮ้าส์ อำเภอพรหมพิราม จังหวัดพิษณุโลก<br />
+              <b-icon icon="pin" /> ณ ฟลุ๊คคอฟฟี่เฮ้าส์ อำเภอพรหมพิราม
+              จังหวัดพิษณุโลก<br />
             </div>
           </div>
           <div class="column">
@@ -63,7 +63,7 @@
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
-              กิจกรรมที่ 1  : HOW BRAND CAN ACCEL DEEP TECH BUSINESS
+              กิจกรรมที่ 1 : HOW BRAND CAN ACCEL DEEP TECH BUSINESS
             </h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 28 - 29 มีนาคม 2566<br />
@@ -86,8 +86,17 @@
             </div>
           </div>
         </div>
+        <div>
+          <video controls class="vdo">
+            <source
+              src="~/assets/vdo/HOW_BRAND_CAN_ACCEL.mp4"
+              type="video/mp4"
+            />
+          </video>
+        </div>
+        <hr>
 
-        <h2 class="subtitle">Cohort 2 กิจกรรมที่ผ่านมา</h2>
+        <h2 class="subtitle mt-5">Cohort 2 กิจกรรมที่ผ่านมา</h2>
 
         <h1 class="title mt-1">
           <a href="/meet">Meet the Investors</a>
@@ -144,6 +153,14 @@
             </div>
           </div>
         </div>
+        <div>
+          <video controls class="vdo">
+            <source
+              src="~/assets/vdo/VDO_Bootcamp4.mp4"
+              type="video/mp4"
+            />
+          </video>
+        </div>
 
         <div class="columns mb-5">
           <div class="column">
@@ -199,6 +216,14 @@
             </div>
           </div>
         </div>
+        <div>
+          <video controls class="vdo">
+            <source
+              src="~/assets/vdo/VDO_Bootcamp3.mp4"
+              type="video/mp4"
+            />
+          </video>
+        </div>
 
         <div class="columns mb-5">
           <div class="column">
@@ -209,7 +234,9 @@
               <b-icon icon="calendar" /> 10-12 พฤศจิกายน 2565<br />
               <b-icon icon="clock" /> 08.00 - 17.00 <br />
               <b-icon icon="pin" />
-              <a href="https://th.mosaic-collection.com/sukhothai-heritage/">โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย</a>
+              <a href="https://th.mosaic-collection.com/sukhothai-heritage/"
+                >โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย</a
+              >
               <br />
             </div>
           </div>
@@ -240,6 +267,14 @@
             </div>
           </div>
         </div>
+        <div>
+          <video controls class="vdo">
+            <source
+              src="~/assets/vdo/VDO_Bootcamp2.mp4"
+              type="video/mp4"
+            />
+          </video>
+        </div>
 
         <div class="columns mb-5">
           <div class="column">
@@ -265,6 +300,14 @@
               </div>
             </div>
           </div>
+        </div>
+        <div>
+          <video controls class="vdo">
+            <source
+              src="~/assets/vdo/VDO_Bootcamp1.mp4"
+              type="video/mp4"
+            />
+          </video>
         </div>
 
         <div class="columns mb-5">
@@ -327,6 +370,15 @@
             </div>
           </div>
         </div>
+        <div>
+          <video controls class="vdo">
+            <source
+              src="~/assets/vdo/VDO_Pre_Ignite.mp4"
+              type="video/mp4"
+            />
+          </video>
+        </div>
+        <hr>
 
         <h2 class="subtitle">Cohort 1 กิจกรรมที่ผ่านมา</h2>
 
@@ -381,7 +433,9 @@
               <b-icon icon="calendar" /> 3-4 เมษายน 2564<br />
               <b-icon icon="clock" /> 9:00-17:00<br />
               <b-icon icon="pin" />
-              <a href="https://www.mosaic-collection.com/sukhothai-heritage/">Sukhothai Heritage Resort</a>
+              <a href="https://www.mosaic-collection.com/sukhothai-heritage/"
+                >Sukhothai Heritage Resort</a
+              >
             </div>
           </div>
           <div class="column">
@@ -583,5 +637,10 @@
       opacity: 0.3;
     }
   }
+}
+
+.vdo {
+  width: 45rem;
+  margin-bottom: 2rem;
 }
 </style>

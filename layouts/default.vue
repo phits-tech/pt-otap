@@ -34,10 +34,10 @@
       <nav class="level is-mobile">
         <div class="level-item">
           <figure class="image is-48x48 mx-1">
-            <img class="is-rounded" src="~/assets/images/logos/otap.png">
+            <img class="is-rounded" src="~/assets/images/logos/logo_otap.png">
           </figure>
           <figure class="image is-48x48 mx-1">
-            <a href="https://www.nxpo.or.th/C/"><img class="is-rounded" src="~/assets/images/logos/bpk.png"></a>
+            <a href="https://www.nxpo.or.th/C/"><img class="is-rounded" src="~/assets/images/logos/logo_bpk.png"></a>
           </figure>
           <figure class="image is-48x48 mx-1">
             <a href="https://www.nu.ac.th"><img class="is-rounded" src="~/assets/images/logos/nu.png"></a>
