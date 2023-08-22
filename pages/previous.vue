@@ -30,7 +30,7 @@
             </div>
           </div>
         </div>
-        <hr>
+        <hr />
 
         <h1 class="title mt-1">
           <a href="/meet">Gate 2</a>
@@ -86,22 +86,24 @@
             </div>
           </div>
         </div>
-        <div>
-          <video controls class="vdo">
-            <source
-              src="~/assets/vdo/HOW_BRAND_CAN_ACCEL.mp4"
-              type="video/mp4"
-            />
-          </video>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/ZtFeLCl4X5c?si=vsqPS4jcKjdQXaB-"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
-        <hr>
+        <hr />
 
         <h2 class="subtitle mt-5">Cohort 2 กิจกรรมที่ผ่านมา</h2>
 
         <h1 class="title mt-1">
           <a href="/meet">Meet the Investors</a>
         </h1>
-
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
@@ -153,13 +155,16 @@
             </div>
           </div>
         </div>
-        <div>
-          <video controls class="vdo">
-            <source
-              src="~/assets/vdo/VDO_Bootcamp4.mp4"
-              type="video/mp4"
-            />
-          </video>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/CjaXneWBykc?si=mTdTe_3swCpivjHP"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -216,13 +221,16 @@
             </div>
           </div>
         </div>
-        <div>
-          <video controls class="vdo">
-            <source
-              src="~/assets/vdo/VDO_Bootcamp3.mp4"
-              type="video/mp4"
-            />
-          </video>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/vNgMX2uwkqY?si=hbCdcG5qGg9jrZmj"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -267,13 +275,16 @@
             </div>
           </div>
         </div>
-        <div>
-          <video controls class="vdo">
-            <source
-              src="~/assets/vdo/VDO_Bootcamp2.mp4"
-              type="video/mp4"
-            />
-          </video>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/SAjXq8T3Yg8?si=WUKHDDi_vYqud9Ec"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -301,13 +312,16 @@
             </div>
           </div>
         </div>
-        <div>
-          <video controls class="vdo">
-            <source
-              src="~/assets/vdo/VDO_Bootcamp1.mp4"
-              type="video/mp4"
-            />
-          </video>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/wfN_iiANb1s?si=d_yveHj--Mc_Ysum"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -370,15 +384,18 @@
             </div>
           </div>
         </div>
-        <div>
-          <video controls class="vdo">
-            <source
-              src="~/assets/vdo/VDO_Pre_Ignite.mp4"
-              type="video/mp4"
-            />
-          </video>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/kMQKzfbhqSA?si=R7DBpvVhaFbZMJyo"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
-        <hr>
+        <hr />
 
         <h2 class="subtitle">Cohort 1 กิจกรรมที่ผ่านมา</h2>
 
