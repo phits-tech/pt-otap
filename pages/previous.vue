@@ -7,6 +7,47 @@
         </h1>
         <div class="columns mb-5">
           <div class="column">
+            <h1 class="title">
+              กิจกรรมที่ 2 : Crafting A Winning Business Plan for Startups
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 24 กันยายน 2566<br />
+              <b-icon icon="clock" /> 08.00 - 17.00 <br />
+              <b-icon icon="pin" /> ณ ห้องประชุม TA407.1 ชั้น 4
+              กองการวิจัยและนวัตกรรม อาคารมหาธรรมราชา มหาวิทยาลัยนเรศวร
+              จังหวัดพิษณุโลก <br />
+            </div>
+          </div>
+          <div class="column">
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img
+                  class="is-rounded"
+                  src="~/assets/images/people/Teerawat.png"
+                />
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">Teerawat Wilairat</span><br />
+                ประธานบริหาร บริษัท ไร่สายชล101 จำกัด แบรนด์ Usmile nano veggies
+                , Health's
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/zX9CA3B7Los?si=Vz6xas7GxKrXgA0_"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <div class="columns mb-5">
+          <div class="column">
             <h1 class="title">กิจกรรมที่ 1 : Feng Shui For Entrepreneurs</h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 27 สิงหาคม 2566<br />
@@ -29,6 +70,17 @@
               </div>
             </div>
           </div>
+        </div>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/vzs2BGs_nBY?si=sFhZZbSZuk_OWw-l"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
         <hr />
 
@@ -60,6 +112,18 @@
             </div>
           </div>
         </div>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/e9xuYDCU4ZQ?si=xHLQkXSXrzUmJljm"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
@@ -242,7 +306,9 @@
               <b-icon icon="calendar" /> 10-12 พฤศจิกายน 2565<br />
               <b-icon icon="clock" /> 08.00 - 17.00 <br />
               <b-icon icon="pin" />
-              <a href="https://th.mosaic-collection.com/sukhothai-heritage/">โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย</a>
+              <a href="https://th.mosaic-collection.com/sukhothai-heritage/"
+                >โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย</a
+              >
               <br />
             </div>
           </div>
@@ -448,7 +514,9 @@
               <b-icon icon="calendar" /> 3-4 เมษายน 2564<br />
               <b-icon icon="clock" /> 9:00-17:00<br />
               <b-icon icon="pin" />
-              <a href="https://www.mosaic-collection.com/sukhothai-heritage/">Sukhothai Heritage Resort</a>
+              <a href="https://www.mosaic-collection.com/sukhothai-heritage/"
+                >Sukhothai Heritage Resort</a
+              >
             </div>
           </div>
           <div class="column">

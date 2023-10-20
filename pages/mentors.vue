@@ -207,6 +207,20 @@
               ที่ปรึกษาการตลาด
             </mentor>
           </div>
+          <div
+            class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen"
+          >
+            <mentor
+              :image-src="
+                require('~/assets/images/people/Teerawat.png')
+              "
+              name="Teerawat Wilairat "
+              thai-name=""
+              topics=""
+            >
+            ประธานบริหาร บริษัท ไร่สายชล101 จำกัด แบรนด์ Usmile nano veggies , Health's
+            </mentor>
+          </div>
         </div>
 
         <div>
