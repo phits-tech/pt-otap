@@ -4,12 +4,12 @@
       <div class="container">
         <h2 class="title is-4">TECHINNOVATION 2023</h2>
         <div class="content is-4">
-          <b-icon icon="calendar" />วันที่ 31 ตุลาคม – 2 พฤสจิกายน 2566<br />
+          <b-icon icon="calendar" />วันที่ 31 ตุลาคม – 2 พฤศจิกายน 2566<br />
           <b-icon icon="pin" /> Sands Expo and Convention Centre, Marina Bay Sands, Singapore
           <br />
           <p class="mt">
             5 ทีมสตาร์ทอัพจาก OTAP เข้าร่วมออกบูธแสดงผลิตภัณฑ์/เทคโนโลยีงาน
-            TECHINNOVATION 2023 ระหว่างวันที่ 31 ตุลาคม – 2 พฤสจิกายน 2566 ที่
+            TECHINNOVATION 2023 ระหว่างวันที่ 31 ตุลาคม – 2 พฤศจิกายน 2566 ที่
             Sands Expo and Convention Centre, Marina Bay Sands, Singapore
           </p>
           <h5 class="">ประกอบด้วย : </h5>
@@ -69,7 +69,7 @@
 
         <h2 class="title is-4">Memorandum of Intent: MOI</h2>
         <div class="content is-4">
-          <b-icon icon="calendar" />วันที่ 22 กันยายน 256<br />
+          <b-icon icon="calendar" />วันที่ 22 กันยายน 2566<br />
           <b-icon icon="pin" /> ณ ห้อง Ballroom 38 ชั้น 38 โรงแรมพูลแมนกรุงเทพ จี ถนนสีลม กรุงเทพฯ
           <p class="mt">
             มหาวิทยาลัยนเรศวร 1 ใน 11 Accelerator Platforms
