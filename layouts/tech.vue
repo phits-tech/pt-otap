@@ -95,34 +95,33 @@
       </footer>
     </div>
   </template>
-  
-  <script>
+<script>
   export default {
-    data () {
-      return {
-        items: [
-          {
-            title: 'Overview',
-            to: { name: 'index' }
-          },
-          {
-            title: 'Workshops',
-            to: { name: 'workshops' }
-          },
-          {
-            title: 'Mentors',
-            to: { name: 'mentors' }
-          }
-        ]
+  data () {
+    return {
+      items: [
+      {
+        title: 'Overview',
+        to: { name: 'index' }
+      },
+      {
+        title: 'Workshops',
+        to: { name: 'workshops' }
+      },
+      {
+        title: 'Mentors',
+        to: { name: 'mentors' }
       }
-    },
+    ]
+    }
+  },
     head () {
       return {
         bodyAttrs: { class: 'event' }
       }
     }
   }
-  </script>
+</script>
   
   <style lang="scss">
   body.event {
