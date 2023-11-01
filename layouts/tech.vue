@@ -64,9 +64,7 @@
           </div>
         </div>
       </section>
-  
       <nuxt />
-  
       <footer class="footer">
         <nav class="level is-mobile">
           <div class="level-item">
