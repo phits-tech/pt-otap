@@ -2,40 +2,6 @@
   <div>
     <section class="section">
       <div class="container">
-        <h2 class="title is-4">TECHINNOVATION 2023</h2>
-        <div class="content is-4">
-          <b-icon icon="calendar" />วันที่ 31 ตุลาคม – 2 พฤศจิกายน 2566<br />
-          <b-icon icon="pin" /> Sands Expo and Convention Centre, Marina Bay Sands, Singapore
-          <br />
-          <p class="mt">
-            5 ทีมสตาร์ทอัพจาก OTAP เข้าร่วมออกบูธแสดงผลิตภัณฑ์/เทคโนโลยีงาน
-            TECHINNOVATION 2023 ระหว่างวันที่ 31 ตุลาคม – 2 พฤศจิกายน 2566 ที่
-            Sands Expo and Convention Centre, Marina Bay Sands, Singapore
-          </p>
-          <h5 class="">ประกอบด้วย : </h5>
-          <p class="">1. บริษัท Firstly Tech <a href="https://web.facebook.com/Phytohemp.official?_rdc=1&_rdr">(website)</a></p>
-          <div class="mt">
-            <img src="~/assets/alliance/1.png" style="max-height: 500px;" />
-          </div>
-          <p class="">2. บริษัท Quantum Biotech <a href="https://quantum-biotech.my.canva.site/">(website)</a> </p>
-          <div class="mt">
-            <img src="~/assets/alliance/2.png" style="max-height: 500px;" />
-          </div>
-          <p class="">3. บริษัท Nutri Innofood <a href="https://me-qr.com/rNnhiCL">(website)</a> </p>
-          <div class="mt">
-            <img src="~/assets/alliance/3.png" style="max-height: 500px;" />
-          </div>
-          <p class="">4. บริษัท Smart Medicine <a href="https://www.facebook.com/profile.php?id=61550342373607">(website)</a> </p>
-          <div class="mt">
-            <img src="~/assets/alliance/4.png" style="max-height: 500px;" />
-          </div>
-          <p class="">5. บริษัท Mapedia <a href="https://www.facebook.com/mapedia.co.th">(website)</a> </p>
-          <div class="mt">
-            <img src="~/assets/alliance/5.png" style="max-height: 500px;" />
-          </div>
-        </div>
-        <hr />
-
         <h2 class="title is-4">
           ประชุมคณะกรรมการดำเนินงานหน่วยงาน Organic Tech Accelerator Platform
           (OTAP) ครั้งที่ 2/2566

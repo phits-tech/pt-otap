@@ -3,7 +3,23 @@
     <section class="section">
       <div class="container">
         <h1 class="title mt-1">
-          <a href="/meet">Gate 3</a>
+          <a href="post">TechInnovation Singapore 2023</a>
+        </h1>
+        <div class="columns mb-5">
+          <div class="column">
+            <h1 class="title">
+              TechInnovation
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 31 ตุลาคมน - 2 พฤศจิกายน 2566 <br />
+              <!-- <b-icon icon="clock" /> <br /> -->
+              <b-icon icon="pin" /> Sands Expo and Convention Centre, Marina Bay Sands, Singapore<br />
+            </div>
+          </div>
+        </div>
+
+        <h1 class="title mt-1">
+          <a href="#">Gate 3</a>
         </h1>
         <div class="columns mb-5">
           <div class="column">
@@ -85,7 +101,7 @@
         <hr />
 
         <h1 class="title mt-1">
-          <a href="/meet">Gate 2</a>
+          <a href="#">Gate 2</a>
         </h1>
         <div class="columns mb-5">
           <div class="column">
