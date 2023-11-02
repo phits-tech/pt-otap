@@ -128,7 +128,7 @@ import Video from '~/components/Video.vue'
 
 export default {
   layout: 'tech',
-  data() {
+  data () {
     return {
       isModalActive: false,
       formProps: {
@@ -137,7 +137,7 @@ export default {
     }
   },
   methods: {
-    openEventForm(team) {
+    openEventForm (team) {
       this.$buefy.modal.open({
         parent: this,
         component: EventForm,
@@ -146,7 +146,7 @@ export default {
         trapFocus: true
       })
     },
-    openVideo(assetPath) {
+    openVideo (assetPath) {
       this.$buefy.modal.open({
         parent: this,
         component: Video,
@@ -157,4 +157,3 @@ export default {
   }
 }
 </script>
-  
