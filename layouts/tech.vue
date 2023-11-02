@@ -59,7 +59,7 @@
         <div class="container has-text-centered">
           <h2 class="title is-1">
           </h2>
-          <h3 class="subtitle is-4">
+          <h3 class="subtitle2 is-4">
           </h3>
         </div>
       </div>
@@ -148,7 +148,7 @@ body.event {
   }
 
   .title,
-  .subtitle {
+  .subtitle2 {
     color: white;
   }
 
@@ -188,9 +188,10 @@ body.event {
       background: none;
     }
 
-    .subtitle {
+    .subtitle2 {
       font-family: 'IBM Plex Serif', serif;
       line-height: 2.5rem;
+      height: 10rem;
     }
   }
 
