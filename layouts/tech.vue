@@ -179,8 +179,8 @@ body.event {
   .hero {
     background: #060606;
 
-    &.has-background {
-      background-image: url('~assets/images/backgrounds/morgan-sessions-YIN4xUBaqnk-unsplash.jpg');
+    &.has-background2 {
+      background-image: url('~assets/images/backgrounds/tech.png');
       background-size: cover;
     }
 
