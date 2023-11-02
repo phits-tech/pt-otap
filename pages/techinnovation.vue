@@ -123,19 +123,18 @@
 </template>
 
 <script>
-import EventForm from '~/components/EventForm.vue';
-import Video from '~/components/Video.vue';
+import EventForm from '~/components/EventForm.vue'
+import Video from '~/components/Video.vue'
 
 export default {
   layout: 'tech',
-
   data() {
     return {
       isModalActive: false,
       formProps: {
-        team: 'test',
-      },
-    };
+        team: 'test'
+      }
+    }
   },
   methods: {
     openEventForm(team) {
@@ -144,18 +143,18 @@ export default {
         component: EventForm,
         props: { team },
         hasModalCard: true,
-        trapFocus: true,
-      });
+        trapFocus: true
+      })
     },
     openVideo(assetPath) {
       this.$buefy.modal.open({
         parent: this,
         component: Video,
         props: { assetPath },
-        trapFocus: true,
-      });
-    },
-  },
-};
+        trapFocus: true
+      })
+    }
+  }
+}
 </script>
   
