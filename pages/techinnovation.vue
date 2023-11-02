@@ -121,18 +121,19 @@
     </div>
   </section>
 </template>
-  
-  <script>
-import EventForm from "~/components/EventForm.vue";
-import Video from "~/components/Video.vue";
+
+<script>
+import EventForm from '~/components/EventForm.vue';
+import Video from '~/components/Video.vue';
 
 export default {
-  layout: "tech",
+  layout: 'tech',
+
   data() {
     return {
       isModalActive: false,
       formProps: {
-        team: "test",
+        team: 'test',
       },
     };
   },
