@@ -11,7 +11,7 @@
               TechInnovation
             </h1>
             <div class="content is-size-5">
-              <b-icon icon="calendar" /> 31 ตุลาคมน - 2 พฤศจิกายน 2566 <br />
+              <b-icon icon="calendar" /> 31 ตุลาคม - 2 พฤศจิกายน 2566 <br />
               <!-- <b-icon icon="clock" /> <br /> -->
               <b-icon icon="pin" /> Sands Expo and Convention Centre, Marina Bay Sands, Singapore<br />
             </div>
