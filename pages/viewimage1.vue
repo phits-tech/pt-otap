@@ -38,18 +38,8 @@
 </template>
 
 <script>
-const path = require("path");
 
 export default {
-  layout: "",
-  data() {
-    return {
-      isModalActive: false,
-      formProps: {
-        team: "test",
-      },
-    };
-  },
   data() {
     return {
       a: 58,
@@ -58,8 +48,8 @@ export default {
   computed: {
     numberList() {
       return Array.from({ length: this.a }, (_, index) => index + 1);
-    },
-  },
+    }
+  }
 };
 </script>
   
