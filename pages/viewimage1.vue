@@ -7,7 +7,7 @@
             <div class="column is-12 post center">
               <br />
               <h5 class="title post-title">
-                Thailand’xs Taste of Tomorrow: Moving Beyond The Plate
+                Thailand’s Taste of Tomorrow: Moving Beyond The Plate
               </h5>
             </div>
           </div>
@@ -21,10 +21,8 @@
               <article class="columns is-multiline">
                 <div class="column is-12 featured-content">
                   <div class="column is-12 post-img">
-                    <img
-                      :src="`_nuxt/assets/viewimg1/${index}.jpeg`"
-                      :alt="`Image ${index}`"
-                    />
+                    <img :src="getImagePath(index)" :alt="`Image ${index}`" />
+                    <!-- <img src="~/assets/viewimg1/1.jpeg" alt="Featured Image" /> -->
                   </div>
                   <br />
                 </div>
@@ -49,6 +47,11 @@ export default {
   computed: {
     numberList () {
       return Array.from({ length: this.a }, (_, index) => index + 1)
+    }
+  },
+  methods: {
+    getImagePath (index) {
+      return require(`@/assets/viewimg1/${index}.jpeg`)
     }
   }
 }
