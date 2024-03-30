@@ -21,7 +21,10 @@
               <article class="columns is-multiline">
                 <div class="column is-12 featured-content">
                   <div class="column is-12 post-img">
-                    <img :src="`_nuxt/assets/viewimg1/${index}.jpeg`" :alt="`Image ${index}`" />
+                    <img
+                      :src="`_nuxt/assets/viewimg1/${index}.jpeg`"
+                      :alt="`Image ${index}`"
+                    />
                   </div>
                   <br />
                 </div>
@@ -33,8 +36,8 @@
     </div>
   </section>
 </template>
-  
-  <script>
+
+<script>
 const path = require("path");
 
 export default {
