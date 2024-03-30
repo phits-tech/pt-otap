@@ -392,7 +392,7 @@
               <b-icon icon="calendar" /> 10-12 พฤศจิกายน 2565<br />
               <b-icon icon="clock" /> 08.00 - 17.00 <br />
               <b-icon icon="pin" />
-              <a 
+              <a
               href="https://th.mosaic-collection.com/sukhothai-heritage/">
               โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย
               </a>
@@ -601,7 +601,7 @@
               <b-icon icon="calendar" /> 3-4 เมษายน 2564<br />
               <b-icon icon="clock" /> 9:00-17:00<br />
               <b-icon icon="pin" />
-              <a 
+              <a
               href="https://www.mosaic-collection.com/sukhothai-heritage/">
               Sukhothai Heritage Resort
               </a>

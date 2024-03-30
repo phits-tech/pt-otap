@@ -40,16 +40,16 @@
 <script>
 
 export default {
+  layout: '',
   data() {
     return {
-      a: 58,
-    };
+      a: 58
+    }
   },
   computed: {
     numberList() {
       return Array.from({ length: this.a }, (_, index) => index + 1);
     }
   }
-};
+}
 </script>
-  
