@@ -3,17 +3,87 @@
     <section class="section">
       <div class="container">
         <h1 class="title mt-1">
-          <a href="post">TechInnovation Singapore 2023</a>
+          <a href="#">OTAP LAUNCHING PRODUCT</a>
         </h1>
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
-              TechInnovation
+              Thailand’s Taste of Tomorrow: Moving Beyond The Plate
             </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 27 พฤศจิกายน 2566 <br />
+              <b-icon icon="clock" /> 13.00 - 17.00 <br />
+              <b-icon icon="pin" /> The Food School Bangkok: Block 28, E102
+              ซอยจุฬา 7 วังใหม่ ปทุมวัน กรุงเทพ <br /><br />
+              <!-- <b-icon icon="note" /> -->
+              <h5>
+                OTAP ผนึกกำลัง สวทช. ม.แม่โจ้ และ The Food School Bangkok
+                ขับเคลื่อนนวัตกรรมอาหารแห่งอนาคต
+              </h5>
+              <p>
+                เมื่อวันที่ 27 พ.ย. 2566 ที่ผ่านมา OTAP มหาวิทยาลัยนเรศวร
+                โดยรองศาสตราจารย์ ดร.สุขกิจ ยะโสธรศรีกุล ผู้อำนวยการโครงการ
+                Organic Tech Accelerator Platform (OTAP) ร่วมมือกับ FOREFOOD
+                สวทช./ iGTC มหาวิทยาลัยแม่โจ้ และ The Food School Bangkok จัดงาน
+                Thailand’s Taste of Tomorrow: Moving Beyond the Plate
+                เพื่อขับเคลื่อนอาหารเพื่ออนาคตอย่างเป็นรูปธรรมภายใต้แนวคิด
+                “ปรุงตำรับสร้างสรรค์ ประกอบสำรับออกรส สำหรับอนาคตอาหาร
+                เพื่อปฏิบัติการเคลื่อนจักรวาลนวัตกรรมอาหารประเทศไทย” เพื่อเป็น
+                market launching program ให้กับ innovative food ingredients
+                โดยนำเสนอในรูปแบบในการนำไปใช้จริงเป็นส่วนผสมในอาหารคาวหวานและเครื่องดื่มผ่านการรังสรรค์ของเชฟจาก
+                The Food School Bangkok: การใช้ผงโปรตีนจิ้งหรีด (SixTein)
+                ในเมอแรงค์เลมอนทาร์ด; เต้าหู้ไข่ขาว (Bettr White)
+                ในซอสอังคาเคะของญี่ปุ่น; เส้นไข่ขาว (EggyDay)
+                กับแกงกะหรี่สไตล์ญี่ปุ่น; ไข่ที่ผลิตจากรำข้าว (Exx)
+                ในทามาโกะยากิกับเห็ดชิตาเกะ; น้ำบูดูจาก plant-based (Budugan)
+                ในข้าวยำปักษ์ใต้; เนื้อวากิวปากน้ำโพ (Do Beef) ย่างกับซอสมะขาม;
+                น้ำสกัดพรมมิ (Brahmi Essence) เป็นไอศกรีม; โยเกิร์ตถั่วลายเสือ
+                (White Tiger) ในกาแฟเย็นผสมดัลโกน่าสไตล์เกาหลี; Combucha
+                (TarnBuri) ชาดำน้ำแข็งใบโหระพา
+                ซึ่งเรามุ่งหวังให้ผู้ประกอบการโรงแรม/ร้านอาหาร
+                รวมถึงนักลงทุนได้เห็นถึงการนำไปใช้จริงของนวัตกรรมอาหารจากห้องปฏิบัติการในมหาวิทยาลัยสู่อาหารในจานที่เราสามารถบริโภคได้ทุกวัน
+                ได้สารอาหารที่มีประโยชน์ต่อร่างกายรวมถึงการได้ช่วยลดปัญหาสิ่งแวดล้อมจากห่วงโซ่กระบวนการผลิตที่เป็นนวัตกรรม
+                สร้างความตระหนักให้สังคมทั้งผู้ผลิตและผู้บริโภคถึงคุณค่าของวัตถุดิบอาหารของประเทศไทยที่สามารถใช้นวัตกรรมสร้างเพื่อเพิ่มความสามารถในการแข่งขันในตลาดโลกได้
+                เป็นไปตามนโยบายการผลักดัน soft power ของประเทศไทยได้อย่างแท้จริง
+                และสามารถยกระดับและเพิ่มความเข้มแข็งด้านเศรษฐกิจตลอดห่วงโซ่อาหารตั้งแต่ต้นน้ำไปจนถึงผู้ผลิตอาหารให้ผู้บริโภค
+                การจัดงานครั้งนี้ได้รับการสนับสนุนจากหน่วยบริหารและจัดการทุนด้านการเพิ่มขีดความสามารถในการแข่งขันของประเทศ
+                (บพข.) และได้รับเกียรติจากผู้บริหารทั้งภาครัฐและภาคเอกชน
+                รวมถึงผู้เกี่ยวข้องในธุรกิจโรงแรม/ร้านอาหาร และ Key Opinion
+                Leaders มากมาย
+                เราหวังเป็นอย่างยิ่งว่ารูปแบบการนำเสนอนี้สามารถเป็นแบบอย่างการนำเสนอเชิงประจักษ์ของงานวิจัยและนวัตกรรมที่นำไปใช้ได้จริงแก่สังคม
+                รวมถึงการสร้างความตระหนักแก่ประชาชนให้หันมาสนใจในการสร้างจุดเด่นจุดแข็งแก่วัตถุดิบอาหารในประเทศไทย
+                ที่มีประโยชน์ต่อร่างกาย ให้สารอาหารที่พอเพียงแก่สังคมผู้สูงวัย
+                หรือสารอาหารที่กระตุ้นการเจริญด้านร่างกายและจิตใจแก่เยาวชน
+                หรืออาหารที่สามารถเยียวยาโรค/ชะลอวัย เป็นต้น
+              </p>
+              <b-icon icon="image" /> <a href="view1">ภาพกิจกรรม</a> <br />
+              <br />
+            </div>
+          </div>
+        </div>
+        <div class="mb-5">
+          <iframe
+            width="55%"
+            height="380"
+            src="https://www.youtube.com/embed/Hh22sm_AvEY?si=M2Auo5Z2yGY9Nn6n"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <h1 class="title mt-1">
+          <a href="post">TechInnovation Singapore 2023</a>
+        </h1>
+        <div class="columns mb-5">
+          <div class="column">
+            <h1 class="title">TechInnovation</h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 31 ตุลาคม - 2 พฤศจิกายน 2566 <br />
               <!-- <b-icon icon="clock" /> <br /> -->
-              <b-icon icon="pin" /> Sands Expo and Convention Centre, Marina Bay Sands, Singapore<br />
+              <b-icon icon="pin" /> Sands Expo and Convention Centre, Marina Bay
+              Sands, Singapore<br />
             </div>
           </div>
         </div>
@@ -322,7 +392,9 @@
               <b-icon icon="calendar" /> 10-12 พฤศจิกายน 2565<br />
               <b-icon icon="clock" /> 08.00 - 17.00 <br />
               <b-icon icon="pin" />
-              <a href="https://th.mosaic-collection.com/sukhothai-heritage/">โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย</a>
+              <a href="https://th.mosaic-collection.com/sukhothai-heritage/"
+                >โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย</a
+              >
               <br />
             </div>
           </div>
@@ -528,7 +600,9 @@
               <b-icon icon="calendar" /> 3-4 เมษายน 2564<br />
               <b-icon icon="clock" /> 9:00-17:00<br />
               <b-icon icon="pin" />
-              <a href="https://www.mosaic-collection.com/sukhothai-heritage/">Sukhothai Heritage Resort</a>
+              <a href="https://www.mosaic-collection.com/sukhothai-heritage/"
+                >Sukhothai Heritage Resort</a
+              >
             </div>
           </div>
           <div class="column">
