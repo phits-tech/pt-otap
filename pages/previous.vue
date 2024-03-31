@@ -8,6 +8,149 @@
         <div class="columns">
           <div class="column">
             <h1 class="title">
+              กิจกรรมแลกเปลี่ยนเรียนรู้ Innovative Local Food for NCDs
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 23 มีนาคม 2567 <br />
+              <b-icon icon="clock" /> 09.00 - 16.00 <br />
+              <b-icon icon="pin" />ณ คณะเกษตรศาสตร์ ทรัพยากรธรรมชาติและสิ่งแวดล้อม มหาวิทยาลัยนเรศวร<br /><br />
+              <h5>
+                Innovative Local Food for NCDs
+              </h5>
+              <p>
+                บรรยากาศกิจกรรม Innovative Local Food for NCDs กิจกรรมแลกเปลี่ยนเรียนรู้ (KM Platform)
+                การพัฒนาเมนูอาหารโดยใช้วัตถุดิบท้องถิ่นสู่อาหารสำหรับผู้ป่วย ที่มีภาวะเคี้ยวกลืนลำบาก และผู้ป่วย NCDs
+                ภายใต้โครงการ
+                การขยายผลและกำลังการผลิตอาหารพื้นบ้านภาคเหนือสำหรับผู้สูงอายุที่มีภาวะเคี้ยวกลืนลำบากและกลุ่มโรค NCDs
+                สู่การผลิตเชิงพาณิชย์ ในวันเสาร์ที่ 23 มีนาคม 2567 ณ คณะเกษตรศาสตร์ ทรัพยากรธรรมชาติและสิ่งแวดล้อม
+                มหาวิทยาลัยนเรศวร โดย กิจกรรมแบ่งเป็น 2 ช่วง
+              </p>
+              <p>ภาคเช้าพบกับการบรรยาย หัวข้อ</p>
+              <ul>
+                <li>การต่อยอดนวัตกรรมอาหารสู่การเป็นผู้ประกอบนวัตกรรมยุค New Normal
+                  โดย ศาสตราจารย์ ดร.ภาวิณี ชินะโชติ
+                </li>
+                <li>แลกเปลี่ยนเรียนรู้ “อาหารท้องถิ่นสู่อาหารผู้สูงอายุเชิงพาณิชย์”
+                  โดย รองศาสตราจารย์ ดร.ยุทธนา พิมลศิริผล
+                </li>
+                <li>การนำเสนอระบบนิเวศด้านอุตสาหกรรมอาหาร
+                  โดย รองศาสตราจารย์ ดร.นิติพงศ์ จิตรีโภชน์
+                </li>
+              </ul>
+              <p>
+                ภาคบ่ายกิจกรรม Workshop การสร้างสรรค์อาหารพื้นถิ่นเพื่อสุขภาพ
+                โดย คุณศศิกานต์ ศรีสังข์ และคุณเอกวัฒน์ พันธาสุ
+              </p>
+              <p>
+                และได้รับเกียรติจาก ศาสตราจารย์ ดร.กรกนก อิงคนินันท์ รองอธิการบดีฝ่ายพัฒนางานวิจัยและนวัตกรรม
+                มหาวิทยาลัยนเรศวร กล่าวเปิดงานฯ
+              </p>
+              <b-icon icon="image" /> <a :href="'/viewimage?set=4'">ภาพกิจกรรม</a>
+              <br />
+            </div>
+          </div>
+          <div class="column">
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/pawinee.png" />
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">ศาสตราจารย์ ดร.ภาวิณี ชินะโชติ</span><br />
+                หัวหน้าโครงการ Food Innovation and Regulation Network (FIRN)
+              </div>
+            </div>
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/yuttana.png" />
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">รองศาสตราจารย์ ดร.ยุทธนา พิมลศิริผล</span><br />
+                ผู้อำนวยการศูนย์นวัตกรรมอาหารและบรรจุภัณฑ์ มหาวิทยาลัยเชียงใหม่
+              </div>
+            </div>
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/nitipong.png" />
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">รองศาสตราจารย์ ดร.นิติพงศ์ จิตรีโภชน์</span><br />
+                ผู้ช่วยคณบดี คณะเกษตรศาสตร์ ทรัพยากรธรรมชาติ และสิ่งแวดล้อม มหาวิทยาลัยนเรศวร
+              </div>
+            </div>
+            <div class="is-flex is-align-items-center mb-4">
+              <figure class="image is-48x48 is-inline-block mr-2">
+                <img class="is-rounded" src="~/assets/images/people/sasikan-aekawat.png" />
+              </figure>
+              <div class="has-text-grey">
+                <span class="is-size-5">คุณเอกวัฒน์ พันธาสุ </span><br />
+                <span class="is-size-5">คุณศศิกานต์ ศรีสังข์ </span><br />
+                The Great Wiboon House
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <img src="~/assets/viewimg4/1.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg4/7.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg4/21.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg4/8.jpg" style="max-height: 250px;" />
+        </div>
+        <br>
+
+        <div class="columns">
+          <div class="column">
+            <h1 class="title">
+              กิจกรรม Pitching for Innovation One
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 17 มีนาคม 2567 <br />
+              <b-icon icon="clock" /> 09.00 - 16.30 <br />
+              <b-icon icon="pin" />ณ ห้องลพบุรี ชั้น 5 โรงแรมท็อปแลนด์ จังหวัดพิษณุโลก<br /><br />
+              <h5>
+                Pitching for Innovation One
+              </h5>
+              <p>
+                วันที่ 17 มีนาคม 2567 สภาอุตสาหกรรมจังหวัดพิษณุโลก ร่วมกับ OTAP@NU จัดกิจกรรม Pitching for Innovation One
+                นำเสนอขอทุนโครงการกองทุนอินโนเวชั่นวัน INNOVATIONONE ณ ห้องลพบุรี ชั้น 5 โรงแรมท็อปแลนด์ จังหวัดพิษณุโลก
+                ดร.วิบูลย์ รักสาสน์เจริญผล กรรมการบริหาร สภาอุตสาหกรรมแห่งประเทศไทย ได้กล่าวถึงหลักเกณฑ์โครงการ
+                “กองทุนอินโนเวชั่นวัน” และรองศาสตราจารย์ ดร.สุขกิจ ยะโสธรศรีกุล คณบดีคณะวิทยาศาสตร์การแพทย์
+                มหาวิทยาลัยนเรศวร และผู้อำนวยการโครงการ Organic Tech Accelerator Platform: OTAP
+                ได้กล่าวถึงการขับเคลื่อนการสร้างธุรกิจที่เป็น innovation-based
+                และมีความสามารถในการแข่งขันในพื้นที่จังหวัดภาคเหนือตอนล่าง
+                และการนำเสนอนวัตกรรมและเทคโนโลยี ของ Startup และ SMEs ในการขอรับการสนับสนุนทุนโครงการกองทุนอินโนเวชั่นวัน
+                INNOVATIONONE การพัฒนาธุรกิจนวัตรกรรมสตาร์ทอัพไทย และ SMEs ที่มีเทคโนโลยีพร้อมเข้าสู่พาณิชย์
+                ให้เข้าถึงแหล่งทุน และตลาด หนุนการจับคู่ระหว่างธุรกิจสตาร์ทอัพ
+                โดยมีผู้นำเสนอ จำนวน 6 ราย ดังนี้
+              </p>
+              <ul>
+                <li>Pantai RTK เครื่องมือรังวัดที่ดินระบบดาวเทียมความแม่นยำสูง</li>
+                <li>BlackBox เครื่องฆ่าเชื้อ สำหรับเครื่องมือแพทย์</li>
+                <li>PHYTOTANT พลังงานเร่งด่วน และผงพอกตัวลูกสุกรแรกคลอด </li>
+                <li>BETTR White โปรตีนจากไข่ขาวเค็ม</li>
+                <li>พร้อมพ์พา พร้อมพ์คอนเนค นวัตกรรมเพื่อสังคม บริการผู้สูงวัย</li>
+                <li>MicClarity อุปกรณ์ป้องกันไมโครโฟนหอน</li>
+              </ul>
+              <p>
+                โดยได้รับเกียรติจาก คุณพญา ธาราวุฒิ ประธานสภาอุตสาหกรรมจังหวัดพิษณุโลก กล่าวต้อนรับ คุณวิเชียร
+                เชิดชูตระกูลทอง ผู้แทนประธานสภาอุตสาหกรรมภาคเหนือ กล่าวรายงาน และคุณธนารักษ์ พงษ์เภตรา
+                รองประธานสภาอุตสาหกรรมแห่งประเทศไทย กล่าวเปิดงานฯ
+              </p>
+              <b-icon icon="image" /> <a :href="'/viewimage?set=3'">ภาพกิจกรรม</a>
+              <br />
+            </div>
+          </div>
+        </div>
+        <div>
+          <img src="~/assets/viewimg3/1.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg3/19.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg3/11.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg3/18.jpg" style="max-height: 250px;" />
+        </div>
+        <br>
+
+        <div class="columns">
+          <div class="column">
+            <h1 class="title">
               กิจกรรม The 1st Thailand Scientific Feng Shui for Modern Entrepreneur
             </h1>
             <div class="content is-size-5">
@@ -34,10 +177,10 @@
           </div>
         </div>
         <div>
-            <img src="~/assets/viewimg2/1.jpg" style="max-height: 250px;" />
-            <img src="~/assets/viewimg2/2.jpg" style="max-height: 250px;" />
-            <img src="~/assets/viewimg2/21.jpg" style="max-height: 250px;" />
-            <img src="~/assets/viewimg2/4.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg2/1.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg2/2.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg2/21.jpg" style="max-height: 250px;" />
+          <img src="~/assets/viewimg2/4.jpg" style="max-height: 250px;" />
         </div>
         <br>
 
@@ -112,7 +255,6 @@
             <h1 class="title">TechInnovation</h1>
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 31 ตุลาคม - 2 พฤศจิกายน 2566 <br />
-              <!-- <b-icon icon="clock" /> <br /> -->
               <b-icon icon="pin" /> Sands Expo and Convention Centre, Marina Bay
               Sands, Singapore<br />
             </div>
@@ -153,7 +295,8 @@
           <iframe width="55%" height="380" src="https://www.youtube.com/embed/zX9CA3B7Los?si=Vz6xas7GxKrXgA0_"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen></iframe>
+            allowfullscreen>
+          </iframe>
         </div>
 
         <div class="columns mb-5">
@@ -182,7 +325,8 @@
           <iframe width="55%" height="380" src="https://www.youtube.com/embed/vzs2BGs_nBY?si=sFhZZbSZuk_OWw-l"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen></iframe>
+            allowfullscreen>
+          </iframe>
         </div>
         <hr />
 

@@ -7,7 +7,7 @@
             <div class="column is-12 post center">
               <br />
               <h5 class="title post-title">
-                Thailand’s Taste of Tomorrow: Moving Beyond The Plate
+                {{ titles }}
               </h5>
             </div>
           </div>
@@ -47,17 +47,30 @@ export default {
     let totalImage = 0
     let imageDir = ''
     let imageLast = ''
+    let titles = ''
     const param1 = query.set
     if (param1 && param1 === '1') {
       totalImage = 59
       imageDir = 'viewimg1'
       imageLast = 'jpeg'
+      titles = 'Thailand’s Taste of Tomorrow: Moving Beyond The Plate'
     } else if (param1 && param1 === '2'){
       totalImage = 21
       imageDir = 'viewimg2'
       imageLast = 'jpg'
+      titles = 'The 1st Thailand Scientific Feng Shui for Modern Entrepreneur'
+    } else if (param1 && param1 === '3'){
+      totalImage = 19
+      imageDir = 'viewimg3'
+      imageLast = 'jpg'
+      titles = 'Pitching for Innovation One'
+    } else if (param1 && param1 === '4'){
+      totalImage = 47
+      imageDir = 'viewimg4'
+      imageLast = 'jpg'
+      titles = 'Innovative Local Food for NCDs'
     }
-    return { a: totalImage, imageDir, imageLast }
+    return { a: totalImage, imageDir, imageLast, titles }
   },
   computed: {
     numberList () {
