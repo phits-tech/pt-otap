@@ -39,10 +39,10 @@
 export default {
   layout: '',
   data () {
-    let totalImage = 47
-    let imageDir = 'viewimg4'
-    let imageLast = 'jpg'
-    let titles = 'Innovative Local Food for NCDs'
+    const totalImage = 47
+    const imageDir = 'viewimg4'
+    const imageLast = 'jpg'
+    const titles = 'Innovative Local Food for NCDs'
     return { a: totalImage, imageDir, imageLast, titles }
   },
   computed: {

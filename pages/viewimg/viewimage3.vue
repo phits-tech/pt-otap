@@ -39,10 +39,10 @@
 export default {
   layout: '',
   data () {
-    let totalImage = 19
-    let imageDir = 'viewimg3'
-    let imageLast = 'jpg'
-    let titles = 'Pitching for Innovation One'
+    const totalImage = 19
+    const imageDir = 'viewimg3'
+    const imageLast = 'jpg'
+    const titles = 'Pitching for Innovation One'
     return { a: totalImage, imageDir, imageLast, titles }
   },
   computed: {

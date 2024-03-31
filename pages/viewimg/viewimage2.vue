@@ -39,10 +39,10 @@
 export default {
   layout: '',
   data () {
-    let totalImage = 21
-    let imageDir = 'viewimg2'
-    let imageLast = 'jpg'
-    let titles = 'The 1st Thailand Scientific Feng Shui for Modern Entrepreneur'
+    const totalImage = 21
+    const imageDir = 'viewimg2'
+    const imageLast = 'jpg'
+    const titles = 'The 1st Thailand Scientific Feng Shui for Modern Entrepreneur'
     return { a: totalImage, imageDir, imageLast, titles }
   },
   computed: {
