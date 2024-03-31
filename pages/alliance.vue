@@ -3,6 +3,75 @@
     <section class="section">
       <div class="container">
         <h2 class="title is-4">
+          FOREFOOD Special Bootcamp: Market Development
+        </h2>
+        <div class="content is-4">
+          <b-icon icon="calendar" />วันที่ 26-28 มกราคม 2567<br />
+          <b-icon icon="pin" />ณ โรงเเรม เรนเดียร์ พาร์ค รีสอร์ท นครนายก
+          <br />
+          <p class="mt">
+            เมื่อวันที่ 26-28 มกราคม 2567 ณ โรงเเรม เรนเดียร์ พาร์ค รีสอร์ท นครนายก OTAP@NU นำโดย รองศาสตราจารย์ ดร.สุขกิจ
+            ยะโสธรศรีกุล และทีมงานเข้าร่วมกิจกรรม FOREFOOD Special Bootcamp: Market Development หน่วยงาน ForeFood
+            Accelerator เมืองนวัตกรรมอาหาร (Food Innopolis) สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.)
+            โดยผู้อำนวยการ และรองผู้อำนวยการ รองศาสตราจารย์ ดร.ธงชัย สุวรรณสิชณน์ เเละรองศาสตราจารย์ ดร.ชาลีดา
+            บรมพิชัยชาติกุล ที่สังเกตการและให้กำลังใจผู้ประกอบการในค่าย
+            หัวข้อการเรียนรู้สำหรับค่ายนี้
+          </p>
+          <ul>
+            <li>
+              Digital Marketing Techniques for startup: Create a Market Funnel that will Get Your Resut โดย คุณภัทร
+              เถื่อนศิริ (CEO Sellsuki)
+            </li>
+            <li>Al Marketing for Startups : Tools to Grow Your Business
+              โดย คุณศิเวก สัจเดว (Co-founder, Centrak)
+            </li>
+            <li>The Ansoff Matrix : Understanding the Risks of Different Strategic Options
+              โดย คุณปรเมษฐ์ ชุ่มยิ้ม (Manager, Food Innopolis Accelerator Platfrom)
+            </li>
+            <li>Growing Growth Strategy : The Myth of Thinking Bold & Thinking Big
+              โดย คุณอนุวัต เชื้อเย็น (Director, International Gastronomy Tourism Centre (iGTC) Maejo University)
+            </li>
+          </ul>
+          <div class="mt">
+            <img src="~/assets/alliance/ff1.png" style="max-height: 350px;" />
+            <img src="~/assets/alliance/ff2.png" style="max-height: 350px;" />
+          </div>
+        </div>
+        <hr />
+
+        <h2 class="title is-4">
+          Deep Tech Alliance @SUT
+        </h2>
+        <div class="content is-4">
+          <b-icon icon="calendar" />วันที่ 30 พฤศจิกายน - 1 ธันวาคม 2566<br />
+          <b-icon icon="pin" /> ณ Co Working Space อาคารสุรพัฒน์ 1 เทคโนธานี มหาวิทยาลัยเทคโนโลยีสุรนารี
+          <br />
+          <p class="mt">
+            เมื่อวันที่ 30 พฤศจิกายน - 1 ธันวาคม 2566 ณ Co Working Space อาคารสุรพัฒน์ 1 เทคโนธานี
+            มหาวิทยาลัยเทคโนโลยีสุรนารี รองศาสตราจารย์ ดร.สุขกิจ ยะโสธรศรีกุล ผู้อำนวยการ Organic Tech Accelerator
+            Platform: OTAP และทีมงาน OTAP เข้าร่วมกิจกรรมฯ ร่วมกับ บพข. ผู้บริหารและเจ้าหน้าที่หน่วยงานเครือข่ายฯ 11
+            หน่วยงานชมผลงาน Flagship ของมหาวิทยาลัยเทคโนโลยีสุรนารี เยี่ยมชมเมืองโคราช และระบบนิเวศการสนับสนุนผู้ประกอบการ
+            อาทิ
+          </p>
+          <ul>
+            <li>โรงงานต้นแบบอุตสาหกรรมพลังงานชีวภาพและเคมี</li>
+            <li>ฟาร์มกัญชาต้นแบบ</li>
+            <li>สถาบันวิจัยแสงซินโครตรอน (องค์การมหาชน)</li>
+            <li>ศูนย์พัฒนาความเป็นผู้ประกอบการของนักศึกษา (SEDA)</li>
+            <li>กิจกรรม Sharing Deep Tech ของทั้ง 11 Accelerator</li>
+          </ul>
+          <div class="mt">
+            <img src="~/assets/alliance/dt1.png" style="max-height: 350px;" />
+            <img src="~/assets/alliance/dt2.png" style="max-height: 350px;" />
+            <img src="~/assets/alliance/dt3.png" style="max-height: 350px;" />
+            <img src="~/assets/alliance/dt4.png" style="max-height: 350px;" />
+            <img src="~/assets/alliance/dt5.png" style="max-height: 350px;" />
+            <img src="~/assets/alliance/dt6.png" style="max-height: 350px;" />
+          </div>
+        </div>
+        <hr />
+
+        <h2 class="title is-4">
           ประชุมคณะกรรมการดำเนินงานหน่วยงาน Organic Tech Accelerator Platform
           (OTAP) ครั้งที่ 2/2566
         </h2>

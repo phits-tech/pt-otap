@@ -5,6 +5,42 @@
         <h1 class="title mt-1">
           <a href="#">OTAP LAUNCHING PRODUCT</a>
         </h1>
+        <div class="columns">
+          <div class="column">
+            <h1 class="title">
+              กิจกรรม The 1st Thailand Scientific Feng Shui for Modern Entrepreneur
+            </h1>
+            <div class="content is-size-5">
+              <b-icon icon="calendar" /> 17 ธันวาคม 2566 <br />
+              <b-icon icon="clock" /> 08.30 - 17.00 <br />
+              <b-icon icon="pin" />โรงแรมคาร์ลตัน กรุงเทพ สุขุมวิท<br /><br />
+              <h5>
+                The 1st Thailand Scientific Feng Shui for Modern Entrepreneur
+              </h5>
+              <p>
+                เมื่อวันอาทิตย์ที่ 17 ธันวาคม 2566 เวลา 09.00 - 17.00 น. ณ โรงแรม Carlton Hotel Bangkok Sukhumvit OTAP
+                ร่วมกับ HOSPITALITY PLUS GROUP (H+) จัดกิจกรรม Busines Matching สำหรับพบปะ แลกเปลี่ยน เจรจาธุรกิจ
+                ระหว่างนวัตกร นักวิจัย นักวิชาการ นักธุรกิจที่สนใจผลิตภัณฑ์หรือบริการ
+                จากงานวิจัยและนวัตกรรมที่อยู่ภายใต้ของมหาวิทยาลัยนเรศวร
+                ผลงานวิจัยและผลิตภัณฑ์ จำนวน 24 ผลงาน ประกอบไปด้วย
+              </p>
+              <ul>
+                <li>ผลงานวิจัยที่จดทะเบียนทรัพย์สินทางปัญญา จำนวน 19 ผลงาน</li>
+                <li>ผลิตภัณฑ์ที่มี Prototype จำนวน 5 ผลงาน</li>
+              </ul>
+              <b-icon icon="image" /> <a :href="'/viewimage?set=2'">ภาพกิจกรรม</a>
+              <br />
+            </div>
+          </div>
+        </div>
+        <div>
+            <img src="~/assets/viewimg2/1.jpg" style="max-height: 250px;" />
+            <img src="~/assets/viewimg2/2.jpg" style="max-height: 250px;" />
+            <img src="~/assets/viewimg2/21.jpg" style="max-height: 250px;" />
+            <img src="~/assets/viewimg2/4.jpg" style="max-height: 250px;" />
+        </div>
+        <br>
+
         <div class="columns mb-5">
           <div class="column">
             <h1 class="title">
@@ -15,7 +51,6 @@
               <b-icon icon="clock" /> 13.00 - 17.00 <br />
               <b-icon icon="pin" /> The Food School Bangkok: Block 28, E102
               ซอยจุฬา 7 วังใหม่ ปทุมวัน กรุงเทพ <br /><br />
-              <!-- <b-icon icon="note" /> -->
               <h5>
                 OTAP ผนึกกำลัง สวทช. ม.แม่โจ้ และ The Food School Bangkok
                 ขับเคลื่อนนวัตกรรมอาหารแห่งอนาคต
@@ -56,22 +91,18 @@
                 หรือสารอาหารที่กระตุ้นการเจริญด้านร่างกายและจิตใจแก่เยาวชน
                 หรืออาหารที่สามารถเยียวยาโรค/ชะลอวัย เป็นต้น
               </p>
-              <b-icon icon="image" /> <a href="view1">ภาพกิจกรรม</a> <br />
+              <b-icon icon="image" /> <a :href="'/viewimage?set=1'">ภาพกิจกรรม</a>
               <br />
             </div>
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/Hh22sm_AvEY?si=M2Auo5Z2yGY9Nn6n"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/Hh22sm_AvEY?si=M2Auo5Z2yGY9Nn6n"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
+        <hr>
 
         <h1 class="title mt-1">
           <a href="post">TechInnovation Singapore 2023</a>
@@ -87,6 +118,7 @@
             </div>
           </div>
         </div>
+        <hr>
 
         <h1 class="title mt-1">
           <a href="#">Gate 3</a>
@@ -107,10 +139,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/Teerawat.png"
-                />
+                <img class="is-rounded" src="~/assets/images/people/Teerawat.png" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">Teerawat Wilairat</span><br />
@@ -121,15 +150,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/zX9CA3B7Los?si=Vz6xas7GxKrXgA0_"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/zX9CA3B7Los?si=Vz6xas7GxKrXgA0_"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -145,10 +169,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/trinnaran.png"
-                />
+                <img class="is-rounded" src="~/assets/images/people/trinnaran.png" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">K.TRINNARAN ASAWAWARANON</span><br />
@@ -158,15 +179,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/vzs2BGs_nBY?si=sFhZZbSZuk_OWw-l"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/vzs2BGs_nBY?si=sFhZZbSZuk_OWw-l"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
         <hr />
 
@@ -186,10 +202,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/sayan.png"
-                />
+                <img class="is-rounded" src="~/assets/images/people/sayan.png" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">อ.สายัณห์ ไวรางกูร</span><br />
@@ -199,15 +212,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/e9xuYDCU4ZQ?si=xHLQkXSXrzUmJljm"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/e9xuYDCU4ZQ?si=xHLQkXSXrzUmJljm"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -224,10 +232,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/sirikul.png"
-                />
+                <img class="is-rounded" src="~/assets/images/people/sirikul.png" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">ดร.ศิริกุล เลากัยกุล </span><br />
@@ -237,15 +242,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/ZtFeLCl4X5c?si=vsqPS4jcKjdQXaB-"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/ZtFeLCl4X5c?si=vsqPS4jcKjdQXaB-"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
         <hr />
 
@@ -268,10 +268,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/porramate-previous.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/porramate-previous.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">ดร.ปรเมษฐ์ ชุ่มยิ้ม </span><br />
@@ -281,10 +278,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/supoj.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/supoj.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">อ สุพจน์ กุลปรางค์ทอง </span><br />
@@ -293,10 +287,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/chantawat.png"
-                />
+                <img class="is-rounded" src="~/assets/images/people/chantawat.png" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">ฉันทวัต วันดี </span><br />
@@ -306,15 +297,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/CjaXneWBykc?si=mTdTe_3swCpivjHP"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/CjaXneWBykc?si=mTdTe_3swCpivjHP"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -332,10 +318,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/porramate-previous.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/porramate-previous.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">ดร.ปรเมษฐ์ ชุ่มยิ้ม </span><br />
@@ -345,10 +328,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/thanabat.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/thanabat.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">คุณธนบัตร บุญธูป </span><br />
@@ -358,10 +338,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/naphat.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/naphat.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">คุณณภัทร ปรีชัยณภา </span><br />
@@ -372,15 +349,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/vNgMX2uwkqY?si=hbCdcG5qGg9jrZmj"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/vNgMX2uwkqY?si=hbCdcG5qGg9jrZmj"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -392,9 +364,8 @@
               <b-icon icon="calendar" /> 10-12 พฤศจิกายน 2565<br />
               <b-icon icon="clock" /> 08.00 - 17.00 <br />
               <b-icon icon="pin" />
-              <a
-              href="https://th.mosaic-collection.com/sukhothai-heritage/">
-              โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย
+              <a href="https://th.mosaic-collection.com/sukhothai-heritage/">
+                โรงแรมสุโขทัยเฮอริเทจรีสอร์ท จังหวัดสุโขทัย
               </a>
               <br />
             </div>
@@ -402,10 +373,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/sureeporn-previous.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/sureeporn-previous.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">สุลีพร ราชพลสิทธ์ </span><br />
@@ -414,10 +382,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/kittituch.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/kittituch.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">ทพ.กิตติธัช มงคลศิวะ </span><br />
@@ -427,15 +392,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/SAjXq8T3Yg8?si=WUKHDDi_vYqud9Ec"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/SAjXq8T3Yg8?si=WUKHDDi_vYqud9Ec"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -450,10 +410,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/akkharawit-previous.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/akkharawit-previous.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">ผศ.ดร.อัครวิทย์ กาญจนโอภาษ </span><br />
@@ -464,15 +421,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/wfN_iiANb1s?si=d_yveHj--Mc_Ysum"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/wfN_iiANb1s?si=d_yveHj--Mc_Ysum"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
 
         <div class="columns mb-5">
@@ -487,10 +439,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/supoj.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/supoj.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">อ สุพจน์ กุลปรางค์ทอง </span><br />
@@ -499,10 +448,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/orapin.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/orapin.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">รศ อรพิณ สันติธีรากุล </span><br />
@@ -511,10 +457,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/sureeporn-previous.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/sureeporn-previous.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">สุลีพร ราชพลสิทธ์ </span><br />
@@ -523,10 +466,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/kittituch.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/kittituch.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5">ทพ.กิตติธัช มงคลศิวะ </span><br />
@@ -536,15 +476,10 @@
           </div>
         </div>
         <div class="mb-5">
-          <iframe
-            width="55%"
-            height="380"
-            src="https://www.youtube.com/embed/kMQKzfbhqSA?si=R7DBpvVhaFbZMJyo"
-            title="YouTube video player"
-            frameborder="0"
+          <iframe width="55%" height="380" src="https://www.youtube.com/embed/kMQKzfbhqSA?si=R7DBpvVhaFbZMJyo"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+            allowfullscreen></iframe>
         </div>
         <hr />
 
@@ -566,10 +501,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/workshop4-speaker1.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/workshop4-speaker1.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5"> คุณ วณิชชา วรรคาวิสันต์ </span><br />
@@ -578,10 +510,7 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/porramate-previous.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/porramate-previous.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5"> ดร ปรเมษฐ์ ชุ่มยิ้ม </span><br />
@@ -601,19 +530,15 @@
               <b-icon icon="calendar" /> 3-4 เมษายน 2564<br />
               <b-icon icon="clock" /> 9:00-17:00<br />
               <b-icon icon="pin" />
-              <a
-              href="https://www.mosaic-collection.com/sukhothai-heritage/">
-              Sukhothai Heritage Resort
+              <a href="https://www.mosaic-collection.com/sukhothai-heritage/">
+                Sukhothai Heritage Resort
               </a>
             </div>
           </div>
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/workshop3-speaker1.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/workshop3-speaker1.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5"> คุณ อภิรักษ์ ปนาทกูล </span><br />
@@ -639,10 +564,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/workshop2-speaker1.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/workshop2-speaker1.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5"> คุณ ทวิร พานิชสมบัติ </span><br />
@@ -651,14 +573,10 @@
             </div>
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/workshop2-speaker2.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/workshop2-speaker2.jpg" />
               </figure>
               <div class="has-text-grey">
-                <span class="is-size-5"> คุณ พงษ์ศักดิ์ ฤทธิ์พิทักษ์พงศ์ </span
-                ><br />
+                <span class="is-size-5"> คุณ พงษ์ศักดิ์ ฤทธิ์พิทักษ์พงศ์ </span><br />
                 <a href="https://medium.com/odds-team">ODDS</a>
               </div>
             </div>
@@ -679,10 +597,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/porramate-previous.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/porramate-previous.jpg" />
               </figure>
               <div class="has-text-grey">
                 <span class="is-size-5"> ดร ปรเมษฐ์ ชุ่มยิ้ม </span><br />
@@ -707,10 +622,7 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-2">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/orapin.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/orapin.jpg" />
               </figure>
               <span class="has-text-grey is-size-5">
                 รศ อรพิณ สันติธีรากุล
@@ -718,19 +630,13 @@
             </div>
             <div class="is-flex is-align-items-center mb-2">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/workshop1-speaker2.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/workshop1-speaker2.jpg" />
               </figure>
               <span class="has-text-grey is-size-5"> ดร ศันสนา สิริตาม </span>
             </div>
             <div class="is-flex is-align-items-center">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/workshop1-speaker3.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/workshop1-speaker3.jpg" />
               </figure>
               <span class="has-text-grey is-size-5">
                 อ สุพจน์ กุลปรางค์ทอง
@@ -753,14 +659,10 @@
           <div class="column">
             <div class="is-flex is-align-items-center mb-4">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/workshop0-speaker1.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/workshop0-speaker1.jpg" />
               </figure>
               <div class="has-text-grey">
-                <span class="is-size-5"> กิตติชัย พิพัฒน์บุณยารัตน์ </span
-                ><br />
+                <span class="is-size-5"> กิตติชัย พิพัฒน์บุณยารัตน์ </span><br />
                 <a href="https://apitel.co">Apitel.co</a> /
                 <a href="https://chiangmaiandco.org">Chiangmai&amp;co</a> /
                 ARISTO
@@ -768,14 +670,10 @@
             </div>
             <div class="is-flex is-align-items-center">
               <figure class="image is-48x48 is-inline-block mr-2">
-                <img
-                  class="is-rounded"
-                  src="~/assets/images/people/sukhgij.jpg"
-                />
+                <img class="is-rounded" src="~/assets/images/people/sukhgij.jpg" />
               </figure>
               <div class="has-text-grey">
-                <span class="is-size-5"> สุขกิจ ยะโสธรศรีกุล, Ph.D. </span
-                ><br />
+                <span class="is-size-5"> สุขกิจ ยะโสธรศรีกุล, Ph.D. </span><br />
                 OTAP / มหาวิทยาลัยนเรศวร
               </div>
             </div>
