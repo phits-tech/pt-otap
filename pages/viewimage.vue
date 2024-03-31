@@ -48,23 +48,23 @@ export default {
     let imageDir = ''
     let imageLast = ''
     let titles = ''
-    const param1 = query.set
+    const param1 = await query.set
     if (param1 && param1 === '1') {
       totalImage = 59
       imageDir = 'viewimg1'
       imageLast = 'jpeg'
       titles = 'Thailand’s Taste of Tomorrow: Moving Beyond The Plate'
-    } else if (param1 && param1 === '2'){
+    } else if (param1 && param1 === '2') {
       totalImage = 21
       imageDir = 'viewimg2'
       imageLast = 'jpg'
       titles = 'The 1st Thailand Scientific Feng Shui for Modern Entrepreneur'
-    } else if (param1 && param1 === '3'){
+    } else if (param1 && param1 === '3') {
       totalImage = 19
       imageDir = 'viewimg3'
       imageLast = 'jpg'
       titles = 'Pitching for Innovation One'
-    } else if (param1 && param1 === '4'){
+    } else if (param1 && param1 === '4') {
       totalImage = 47
       imageDir = 'viewimg4'
       imageLast = 'jpg'
