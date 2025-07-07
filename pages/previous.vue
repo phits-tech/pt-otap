@@ -13,7 +13,7 @@
             <div class="content is-size-5">
               <b-icon icon="calendar" /> 23 มีนาคม 2567 <br />
               <b-icon icon="clock" /> 09.00 - 16.00 <br />
-              <b-icon icon="pin" />ณ คณะเกษตรศาสตร์ ทรัพยากรธรรมชาติและสิ่งแวดล้อม มหาวิทยาลัยนเรศวร<br /><br />
+              <b-icon icon="pin" />ณ คณะเกษตรศาสตร์ทรัพยากรธรรมชาติและสิ่งแวดล้อม มหาวิทยาลัยนเรศวร<br /><br />
               <h5>
                 Innovative Local Food for NCDs
               </h5>
